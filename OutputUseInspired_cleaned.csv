@@ -1,0 +1,680 @@
+GrantNumber,OutputId,Title,Type,Year,Url
+136636,EAE2AED0-1672-4788-8F7A-C28483879C21,Swiss Timber Solutions AG,Start-up,2016.0,http://www.swisstimbersolutions.ch/
+136630,438FEFF9-C395-4536-B75A-2A6D8F2F4742,Embion Technologies,Start-up,2016.0,Unknown
+174105,7F258D33-765F-4CE6-887D-A12228200264,µSpectre,Software,2017.0,https://c4science.ch/tag/%C2%B5spectre/
+173973,BF392120-82F6-4893-B6F0-B50649E5D81F,Gamified information on objectives for wastewater management in rural Switzerland (MIT license),Software,2018.0,https://edanaga.eawag.ch/
+161467,F839B98B-9A81-4B34-8105-019CB895F37A,"PyMicrofluidics, a python module for microfluidics design",Software,2017.0,https://github.com/guiwitz/PyMicrofluidics
+185872,EFACE82B-9468-4B78-82F8-339BB998012A,fMRIPrep 21.x series,Software,2021.0,Unknown
+185872,803A717C-6549-4899-AB31-40FE84DDDCF2,SDCFlows 2.x series,Software,2021.0,Unknown
+193578,A41695F8-F5B5-4D18-AB1A-670FCE70B338,Echo Impact Exchange,Start-up,2022.0,Unknown
+173973,99A317F7-5244-4779-9BD1-71E2C79DF602,"Online weight elicitation (swing, trade-offs) (MIT license)",Software,2021.0,https://doi.org/10.25678/00056J
+179967,CCB883A8-1BBC-4FC5-8F1F-FAABF1BF99B9,autodiff: automatic differentiation made easier for C++,Software,2019.0,https://autodiff.github.io/
+139505,63374366-675E-463A-B29D-FDBCFE5553DE,Morphotonix,Start-up,2014.0,http://www.morphotonix.com
+185872,C43AECA7-405C-4706-8B54-E32171F59CEE,TemplateFlow Python Client,Software,2021.0,Unknown
+185872,4C6681CB-B938-4ABA-8E72-EB0ADC9D8A77,dMRIPrep (experimental development),Software,2021.0,Unknown
+185872,A24257F4-ED1F-4CFC-99E2-F955BB7DEF3F,MRIQC 21.x series,Software,2021.0,Unknown
+173973,9E7283B2-F65B-4CFE-8A52-11A87FAD8D88,Gamified weight elicitation for wastewater management (MIT license),Software,2021.0,Unknown
+173973,1918EFF4-4664-4EB5-B020-FE145ADCFFDB,Online swing weight elicitation (MIT license),Software,2018.0,https://c4science.ch/diffusion/8244/
+179967,B33FDBE6-1136-4559-BD8D-48DC077B5395,Reaktoro: a C++/Python framework for modeling chemically reactive systems v1.0,Software,2019.0,https://reaktoro.org
+160030,6F465D13-6A4D-4DA1-9066-3EB08695FCF4,SERMO,Software,2018.0,http://sermo.unine.ch/SERMO/documentation/index?part=outils
+130830,1A252B9B-02A9-4080-A2FC-FEC549EEBA2D,Clustering of tandem mass spectra,Software,2013.0,https://bitbucket.org/sib-pig/jpl2-tools-pacific/wiki/Home
+127545,FFF2D8D7-34C5-473C-AE2F-9AFF1B1DA8AC,Dynamo - Subtomogram averaging of cryo-EM data,Software,2012.0,http://www.dynamo-em.org
+149902,4F8BAFAD-C0AC-4926-AF9E-8A584E28811B,G-Therapeutics,Start-up,2015.0,http://gtherapeutics.com/
+166072,42E5745A-5FDB-4F4F-83B1-7C9AF2D395E4,angular material calendar agnostic date picker,Software,2019.0,https://material.angular.io/components/datepicker/overview
+141127,425624AF-0308-4CD1-9323-2CE7CA4C3355,AlveoliX,Start-up,2015.0,http://alveolix.com/
+166072,C8B7E221-FE41-4DE0-9379-B02B89A8D33F,BEOL Platform,Software,2020.0,http://beol.dasch.swiss
+148957,C78A2AB5-36F8-4D28-9567-7AC86769336E,A Software package to get realtime data from the OptiTrack motion capture system,Software,2015.0,https://bitbucket.org/khansari/optitrack
+172168,BE7E3388-368F-4610-850C-B2A3E85B8A7C,Parallel computation for construction of the particle-hole symmetric Pfaffian wavefunction.,Software,2019.0,Unknown
+191802,62B0E2C7-4F16-4548-A9A6-AEF787D2CB35,Mouse Brain Atlases Generator,Software,2021.0,https://gitlab.com/FOS-FMI/mouse-brain-atlases_generator
+165261,C1BDCAE2-C491-49D8-B941-95E6A5E6FF1C,Celadro: Cells as active droplets,Software,2018.0,https://github.com/rhomu/celadro
+165240,F886E5A0-E023-407A-937D-C9D1921E4274,ElConRoM,Software,2018.0,https://github.com/afognini/elconrom
+184475,4EEA25BB-CE24-4DF0-97D3-CA74E610E9B1,R package – TREX: TRee sap flow EXtractor,Software,2020.0,https://github.com/the-Hull/TREX
+178032,72F0B55F-C628-46DF-9772-CB73EDF197E4,CoevDB,Software,2019.0,http://phylodb.unil.ch/CoevDB/
+175041,64BC1E08-9422-4D40-919B-A5B750051A56,Tharzen Inc,Start-up,2019.0,https://tharzen.com
+172168,59DF7D21-C53D-4CA5-B282-C666046F8854,Simulation of quantum Hall physics in disk geometry,Software,2018.0,Unknown
+161760,2F47E680-5692-4DBC-8513-3565EC27AF7D,MortHump - a R package,Software,2016.0,https://cran.r-project.org/web/packages/MortHump/index.html
+191802,C4822148-9199-4876-87B4-25A8CF5DC4D8,Gentoo Science,Software,2021.0,https://gitweb.gentoo.org/proj/sci.git/log/?qt=grep&q=Horea+Christian
+171774,CEF208D8-2E8B-4C6D-BDFA-045DD3CEDC40,Anura3D MPM software,Software,2018.0,http://www.anura3d.com/
+172168,AFAD2481-9887-40B0-8528-0EEFC0CDE937,High performance exact diagonalisation for the Kitaev Honeycomb model,Software,2019.0,Unknown
+172168,832C35EC-001B-43D9-BE5D-0FB4EC76F43A,Optimisation techniques for automatic design of Hamiltonians,Software,2019.0,Unknown
+172168,5598237A-7047-4789-B6C9-3DB9D602A735,Numerical simulation of O(N)^3 tensor models,Software,2018.0,Unknown
+162060,B2C16BBC-AE42-44E1-A73B-4F723AFDAAFD,QVX - a conic programming library for quantum information,Software,2017.0,https://github.com/denisrosset/convextool
+162066,0EB6D47D-7528-4187-8B82-539E24E21A14,DGM: Dynamical graphical models for multivariate time series data to estimate directed dynamic relationships in networks.,Software,2016.0,https://github.com/schw4b/DGM
+191802,6F232CAB-D22C-4DAE-AA94-6302E9AB3933, Rat Brain Templates Generator,Software,2020.0,https://gitlab.com/FOS-FMI/rat-brain-templates_generator
+172168,B61F0E6C-21D2-4D2C-AACA-6D12063FDEED,Improved model for simulating Landau level mixing in fractional quantum Hall effect.,Software,2018.0,Unknown
+178591,45B514B2-1C9F-4A97-93C9-5508F515B0BA,PolyAsite 2.0 Database,Software,2020.0,Unknown
+164962,AEC5DF25-9AD3-4919-B250-77517A7BDD39,metaDigitise,Software,2017.0,https://github.com/daniel1noble/metaDigitise
+178591,2150326E-AB66-4096-9F7F-78B7BC700CE1,TECtool,Software,2018.0,Unknown
+162060,C3F4576A-25EE-45D6-915B-828AAA13B9A8,Alasc - a computational group theory library in Scala,Software,2017.0,https://github.com/denisrosset/alasc
+165240,3EE3D7D4-0FA0-4054-8307-8C695F40EE43,PyDualDDS,Software,2017.0,https://github.com/afognini/PyDualDDS/commits/master
+165240,93245644-15AD-49BB-97FB-E870DF34BF31,Optical Quantum Tomography Code,Software,2017.0,https://github.com/afognini/Tomography
+195249,6F352037-6B66-40E6-9F25-460D7FC0F376,"SPORE (Specific Parent-Offspring Relationship Estimation, formerly KAISER)",Software,2021.0,https://github.com/jnrunge/SPORE
+181713,F38AC7DD-32CD-472F-9FF0-907B2AE3E1A5,"Code for paper on ""PatchAttack: A Black-box Texture-based Attack with Reinforcement Learning""",Software,2020.0,https://github.com/Chenglin-Yang/PatchAttack
+181713,8055D32B-798B-4C95-8179-4B34566460C1,"Code for paper on ""Compositional Convolutional Neural Networks: A Deep Architecture with Innate Robustness to Partial Occlusion""",Software,2020.0,https://github.com/AdamKortylewski/CompositionalNets
+174987,0659B444-5344-476B-AD12-ECCB09CE8718,Bembel,Software,2019.0,www.bembel.eu
+191802,AFBC1951-EF19-4C0D-9003-FEF24E460594,SAMRI — Small Animal Magnetic Resonance Imaging,Software,2021.0,https://github.com/IBT-FMI/SAMRI
+178427,BFB0A8F7-7C24-4092-B5B9-963730F264E5,Full-body models with detailed thoracolumbar spine for children and adolescents,Software,2019.0,https://simtk.org/projects/spine-children
+187955,69693169-25F4-484D-9F0B-E0249E86569C,SketchyCGAL,Software,2020.0,https://github.com/alpyurtsever/SketchyCGAL
+188028,529999D0-AAE8-411D-A029-5ADB44A391E2,EnergyScope,Software,2019.0,https://github.com/energyscope/EnergyScope/
+178032,EF3358EE-9567-4FD9-9A11-D5A2BBE7F0EC,FastCodonBS,Software,2019.0,https://bitbucket.org/XavMeyer/fastcodonbs/admin
+178032,BA94AEBE-EA95-4503-96F1-B951C4B1E04D,CoevRJ,Software,2019.0,https://bitbucket.org/XavMeyer/coevrj
+174828,B3D1440F-0292-453C-AB0E-B3C3B744C3F3,Contributions to R package fiels,Software,2019.0,https://CRAN.R-project.org/package=fields
+162060,0E18232B-9916-4B98-9073-22D2DD8E4469,Faacets - an open collaboration platform for Bell and Bell-like inequalities,Software,2017.0,http://faacets.com/
+188028,3FB2183B-BD33-48F2-87D5-E09855CF9BBB,"Code for the report ""Optimal scheduling rules for elective care to minimize years of life lost during the SARS-CoV-2 pandemic""",Software,2020.0,https://github.com/ImperialCollegeLondon/OptimalScheduling4COVID
+184500,E15AD18D-8045-42E0-992A-BA547516C9A8,Modifications to: n2p2 - A Neural Network Potential Package,Software,2021.0,https://github.com/CompPhysVienna/n2p2/
+165227,037372AB-4B16-46AD-B502-19DB19A2A601,Coupled flow and geomechanic simulator,Software,2016.0,Unknown
+148957,CF887DD0-F358-4318-8C9A-ED31668F4906,A Control Interface for the Human-Friendly Robot IIWA,Software,2015.0,https://bitbucket.org/khansari/iiwa
+191802,83871F0D-1D78-4C56-99E3-093832DDAFC0,PlaMRI — Plate Magnetic Resonance Imaging,Software,2021.0,https://gitlab.com/FOS-FMI/plamri
+181475,B592C165-BA21-4624-9508-77CFFAC50ACF,mcmicro,Software,2020.0,https://labsyspharm.github.io/mcmicro/
+184034,77903EE1-60F0-4002-83FE-B99EE15C5CC8,XDW-CASPT2 in OpenMolcas,Software,2020.0,https://gitlab.com/Molcas/OpenMolcas
+165282,3D3A108F-406E-462F-B41C-625E96DB75D7,Instamatic,Software,2017.0,https://zenodo.org/record/1090389
+178532,6CA6F381-918D-41DF-B1B9-51B2B8262D53,PHOEBE: PHOnon and Electron Boltmann Equation,Software,2020.0,https://github.com/mir-group/phoebe
+178242,D9BCF4A8-CD69-49FA-B528-4CD87DDBBF9B,Maximum power point microcontroller code,Software,2018.0,https://drive.google.com/open?id=1Dc3tYsYmBcvHb4weJ1SHk0L52w2juEoq
+158949,C4A3BBC0-B811-46E5-BD36-3C2C6965C1E9,Mosquito Mapper,Software,2016.0,Unknown
+184382,3B4A7067-0305-4D5B-91D4-E03086D211A7,Environment Similarity,Software,2020.0,https://www.plumed.org/doc-master/user-doc/html/_e_n_v_i_r_o_n_m_e_n_t_s_i_m_i_l_a_r_i_t_y.html
+184382,869DD22E-BC3C-4BC8-8C91-B16875DBBD8F,Environment Finder,Software,2020.0,https://github.com/PabloPiaggi/EnvironmentFinder/releases/tag/v1.0.0
+174828,72EBF64C-5D3A-47E7-A7E6-F0FAE77193D4,R package optimParallel,Software,2018.0,https://CRAN.R-project.org/package=optimParallel
+171806,D7F9D963-482C-49FB-9A10-39BD610F070E,Targeted scRNA-seq primer design for TAP-seq,Software,2020.0,https://bioconductor.org/packages/release/bioc/html/TAPseq.html
+191875,4BC246AE-2241-4EDA-8D09-3349DED5FC76,ERASE,Software,2021.0,https://github.com/ImperialCollegeLondon/ERASE
+184475,148DB2EC-A0B0-49A9-8018-32DDDB5C54BB,R package – datacleanr: a flexible and efficient tool for interactive data cleaning,Software,2020.0,https://github.com/the-Hull/datacleanr
+175859,4C02351D-7938-4ECB-BFAE-1AA4A3424F00,Polyfem,Software,2019.0,https://polyfem.github.io/
+195191,CA2932B9-286E-47DB-812E-9734CA2A1F49,PsychPower - R Package,Software,2022.0,https://github.com/orduek/PsychPower
+161645,A18E811D-100D-4543-9DB0-FE84246CCC25,Interacting dynamic electrons approach (iDEA),Software,2018.0,https://github.com/godby-group/idea-public
+151631,3FAA12CF-28AE-44E4-AAEB-EFB4622E37FB,AAAccell,Start-up,2014.0,Unknown
+187957,A227A174-646B-48E3-BF6A-DD8DF4E86B8B,MultidimensionalSpectroscopy.jl,Software,2021.0,https://github.com/lbmnky/MultidimensionalSpectroscopy.jl
+168297,7A6DFDFE-E7A9-4FA8-B013-C15F8DA54B90,LATfield2,Software,2017.0,https://github.com/daverio/LATfield2
+161963,86FE57D6-3D33-4066-BDDC-129DB43D23E8,FUSE2: Framework for Understanding Structural Uncertainties,Software,2018.0,https://github.com/naddor/fuse/tree/develop
+184245,887EEED0-CDC4-4289-A0D7-E8FA553F8DD2,admcycles,Software,2020.0,https://gitlab.com/jo314schmitt/admcycles
+184255,3E60C0FF-1B68-4062-A6E9-F1BD564F746B,topologicalSBE,Software,2020.0,https://github.com/denitsab/topologicalSBE
+175079,310E5A37-C467-466F-A855-C28565BE04A3,followup,Software,2019.0,https://github.com/ffinger/followup
+130396,FB854584-A560-4AE7-BBEC-F9A7298EA992,SABRe Tutorials 1,Software,2012.0,http://www.icst.net/fileadmin/data/research/SABRe_Tutorials_1.zip
+132293,F3BF4F88-170A-40D3-A0AE-609EB84A1063,Future instruments Sàrl,Start-up,2012.0,http://www.future-instruments.com
+132293,0D3F514A-1A10-4FF3-AA91-4A332308E3D0,Surface Editor,Software,2012.0,http://www.surface-editor.net
+130396,B708442F-58B8-4CD9-9888-839A75FF577A,SABRe GMBH,Start-up,2015.0,http://sabremultisensor.com/
+172718,98338FB6-B577-451C-8113-7B805126D52C,Celerato,Start-up,2021.0,https://www.celerato.ch
+176653,D132D43E-0867-45F8-9DCC-BA80806987AE,Gaia Membranes AG,Start-up,2019.0,www.gaiamembranes.com
+129092,7E84FBA0-871D-4A23-BE0C-0093FA14E7A0,PLUMED 1.3 (contribution),Software,2011.0,https://sites.google.com/site/plumedweb/news/wehaveanewplumed
+172445,6AED1245-081A-42D4-81D7-02F56252FE1D,Price_Uncertainty_HLCA ,Software,2021.0,https://github.com/jakobsarthur/Price_Uncertainty_HLCA
+172445,E720EC28-A53D-42AE-B27B-D5B11693030C,Carculator_truck,Software,2020.0,https://github.com/romainsacchi/carculator_truck
+172445,BB1848AA-0166-456D-9D26-DD19CE6E79DF,Carculator,Software,2019.0,https://github.com/romainsacchi/carculator
+172445,2CD00DD8-9BC2-403E-A74D-F3344F0B30D4,Mojo system modelling framework. Turning the raw data into into a computational structure.,Software,2019.0,https://github.com/BONSAMURAIS/mojo
+172445,707BDC89-4D43-473D-AF40-101000F75901,Carculator_bus,Software,2020.0,https://github.com/romainsacchi/carculator_bus
+172445,FFA172AC-191D-48B1-AC6F-ADAC350623BB,Consumption_Model_CH,Software,2019.0,https://github.com/aleksandra-kim/consumption_model_ch
+172445,09FCD995-A1F7-46F8-9608-A00E6075092B,Akula,Software,2021.0,https://github.com/aleksandra-kim/akula
+172445,6CC2D720-23EA-445E-ADE8-A8538396DFCA,GWP_uncertainties,Software,2021.0,https://github.com/aleksandra-kim/gwp_uncertainties
+172445,8E02F195-E9D5-4434-B983-4682544C478A,GSA_framework,Software,2020.0,https://github.com/aleksandra-kim/gsa_framework
+154472,7FCCC1A3-66F2-4C95-8822-7DB20ABDDD4B,GratXray AG,Start-up,2017.0,www.gratxray.com
+177208,88700C49-CFF1-4025-BBFA-168D94E322DD,CATALYST: Cytometry dATa anALYSis Tools,Software,2018.0,http://bioconductor.org/packages/release/bioc/html/CATALYST.html
+177208,79323492-2ACF-40FC-957A-14E834E69529,"pipeComp, a general framework for the evaluation of computational pipelines, reveals performant single-cell RNA-seq preprocessing tools",Software,2020.0,https://github.com/plger/pipeComp
+170992,AA5A2EFF-8402-4099-9AD9-EC7E53A128ED,Lumendo AG,Start-up,2018.0,www.lumendo.ch
+170985,7402257C-A1AE-4AD2-84C7-FE3204AC166B,NUTMEG,Software,2017.0,https://www.nitrc.org/plugins/mwiki/index.php/nutmeg:MainPage
+122689,724BCEC4-7F71-4759-9A14-537A44E330E2,ArsoLux,Start-up,2010.0,http://www.arsolux.ufz.de/index.php?de=20706
+177208,ADE0A5D5-C095-4D4A-85A7-530CF47D6505,muscat: Multi-sample multi-group scRNA-seq analysis tools,Software,2019.0,http://bioconductor.org/packages/release/bioc/html/muscat.html
+180359,69C49694-0A6B-4288-94E9-E2A2DBFEB567,DUNIT: Detection-based Unsupervised Image-to-Image Translation,Software,2020.0,https://github.com/IVRL/DUNIT
+177208,AD1C39C4-104F-4E28-B4E3-5A4BEF3255C6,Stromal Therapeutics AG,Start-up,2018.0,Unknown
+154488,A6323A66-30CA-4B15-9BE6-D7C6127BE0F3,Pharmabiome AG,Start-up,2016.0,http://www.pharmabiome.com/
+141836,5B7AC693-C00F-4F4F-9BEC-0D62E108E429,TwingTec,Start-up,2013.0,http://twingtec.ch/
+173711,FA88CBF8-A8ED-4576-B0F5-F761F6DA21A4,MonPaGe-2.0.s. Protocole informatisé d'évaluation des troubles moteurs de la parole ,Software,2021.0,https://lpp.in2p3.fr/monpage/
+173719,7FBE771D-872E-4908-BBA9-F8711703CA4E,impresso application (historical newspapers exploration interface),Software,2019.0,https://impresso-project.ch/app
+170929,5BA00912-0170-43F8-BC44-146A43E545DC,Vector BioPharma,Start-up,2021.0,https://careers.ridgelinediscovery.com/jobs
+160876,C8DC2FC8-E841-4A83-BAE6-2BA5F4386E4F,Viral Load Monitoring Database,Software,2016.0,https://visibleimpact.org/projects/1261-molecular-hiv-monitoring-in-lesotho
+191046,9E26772A-5568-4E5C-A83D-2C2D32BB2B98,StructureMap,Software,2022.0,https://github.com/MannLabs/structuremap
+180808,4233E7F7-2BF5-4232-9405-8B84AEE2D71B,GRPtests: Goodness-of-Fit Tests in High-Dimensional GLMs,Software,2020.0,https://cran.r-project.org/web/packages/GRPtests/index.html
+191046,4960C63D-D713-4242-9E7B-57E5537DDD37,AlphaPept,Software,2021.0,https://github.com/MannLabs/alphapept
+186687,89A51B70-F5E3-433E-8753-A58697D90CDB,Pulse-Doppler radar data processing,Software,2021.0,https://bitbucket.org/ansi512/hs_doppler_radar/src/master/
+191046,5D761AD6-CDD9-4FE9-9251-9A24DE38E708,AlphaMap,Software,2021.0,https://github.com/MannLabs/alphamap
+186687,06C0A2D0-0ADF-4606-A88E-61E2A0F24BF8,FMCW radar data processing,Software,2021.0,https://bitbucket.org/ansi512/mgeodar_acquire/branch/process_data
+186680,34892E23-9751-4DE9-B3C8-6B4C9292CF47,optimParallel (R),Software,2021.0,https://cran.r-project.org/package=optimParallel
+186680,8EA74F18-EBC6-4D08-8F37-D64D1E7C816D,dotCall64,Software,2021.0,https://cran.r-project.org/package=dotCall64
+186680,96EA8113-4799-43FC-8CD5-D7344C127B17,optimparallel (Python),Software,2020.0,https://pypi.org/project/optimparallel
+186680,C516E750-0935-4E69-BA54-D47906FD3882,gapfill,Software,2021.0,https://cran.r-project.org/package=gapfill
+186680,47B1BC37-A0BC-48ED-AEE2-2BC09F1CF9A7,fields,Software,2020.0,https://cran.r-project.org/package=fields
+191076,E4D7BCB8-AD70-4844-99DF-D595D0CA63A8,"Code accompanying the paper Campbell, Attinger et al., 2021",Software,2021.0,https://doi.org/10.5281/zenodo.5138030
+180780,924CC6EB-B325-44F7-A2CE-ECF9D9B2D94B,Energy Diagram Simulations of Perovskite Solar Cells ,Software,2019.0,https://lucabertoluzzi.shinyapps.io/band_diagram_PSC/
+183844,7CD9E447-AE98-45D7-B776-27A647B95CFB,PRSim: Stochastic Simulation of Streamflow Time Series using Phase Randomization,Software,2020.0,https://cran.r-project.org/web/packages/PRSim/
+192912,F2E2162A-8221-4406-BC5D-E06A97182B5A,NaturLoop AG,Start-up,2020.0,www.naturloop.com
+183081,F09E82C7-E5DA-449F-9C8D-95428295AAC9,Smartopinion Extension for Research with Simulated Forums,Software,2019.0,www.smartopinion.de
+134464,018AC0C3-66B6-495F-BB4C-B2DABE5C3BBE,Faceshift AG,Start-up,2012.0,http://www.faceshift.com
+167051,DAAE992A-6E4C-4646-A8AE-7659B5445937,TransATor,Software,2019.0,https://transator.ethz.ch/
+194005,B494143C-0827-4625-9A51-AA07A6477813,Youth Labor Index for Low-Income Countries webtool,Software,2021.0,https://nadel.shinyapps.io/ylili/
+142767,81E58D59-E2C8-488E-8712-FDDE2E0C313F,Projet textobserver,Software,2013.0,http://textopol.u-pec.fr/textobserver/
+153927,AF033414-90C0-4E33-8367-FED5537EF6A8,BASEMENT v2.8.0,Software,2018.0,http://www.basement.ethz.ch/
+153971,8DFEB7D0-701C-44E4-9B22-A15614B2AD0B,THERMAID,Software,2018.0,https://github.com/gujans/THERMAID
+153997,9E1E2262-EBD3-4C5C-88A5-6744F02BC494,T-RECS,Software,2018.0,https://smartgrid.epfl.ch/t-recs/
+153997,0DE27C78-C056-4902-A251-56982233AA55,Commelec API,Software,2018.0,https://smartgrid.epfl.ch/commelec-api/
+153981,A62607AF-527F-4224-89F8-2B807430C89F,Energy Yield Simulation Tool (Matlab),Software,2018.0,Unknown
+153997,0D9946D3-D374-40ED-A42C-4D3A6C5F04F5,OpenBuild and OpenBuildNet,Software,2018.0,https://la.epfl.ch
+153965,C2C51E89-E828-456C-B61F-088FD4D5962D,SolUR,Start-up,2019.0,Unknown
+153965,B55A3AE9-E6BA-489E-8F39-754B6E1721FA,"EcoTransitionStudio, Sàrl",Start-up,2019.0,Unknown
+153790,6387AF31-594B-404D-A0FA-42AC4CDDBF1A,Free open reference implementation of a two-phase PEM fuel cell model,Software,2018.0,www.isomorph.ch
+153952,6350FE38-F1A0-4335-8311-447F367EB297,IMPS/IMVS Simulation Tool (Comsol App),Software,2018.0,Unknown
+144238,6F232594-C11A-448B-BDC0-92B3F4C97942,Code for Histogram of Orientation Shape Context (HOOSC),Software,2016.0,Unknown
+191657,65FBDAF6-F043-453B-ABBC-4F803778A592,Attention Eye,Software,2021.0,https://tecfaetu.unige.ch/etu-maltt/aegir/elhamde0/vip/attention_eye/exe_attention_eye.zip
+191657,AEFD0E42-6183-4C3D-92FF-103A609FD023,Game based on Hamlin's hill paradigm,Software,2021.0,https://drive.google.com/drive/folders/1Mw-e3XHEAFh5GKXpZF088KmHN25XWOrG?usp=sharing
+149711,5FE291EC-CF90-4E7B-9BB9-968C7E479DFB,envipath – The environmental contaminant biotransformation pathway resource,Software,2016.0,http://envipath.org
+149711,F634DDD8-4517-40A5-A0B5-D568AF092A99,envipath.com,Start-up,2017.0,http://envipath.com
+187496,5D4E91CC-E96D-4851-9604-652B5720240D,Demokratiefabrik,Software,2021.0,Unknown
+159686,4DB4BB97-E703-4857-A99E-E51B31953F69,HiD Imaging,Start-up,2019.0,http://www.hidimaging.com/
+125419,EF6B3CF3-6295-48FD-ABBE-F32FABC380F5,SciTrackS GmbH,Start-up,2011.0,http://www.scitracks.com
+156234,5595DEC9-AFD1-4397-BA7C-070A86D98A3B,VivoFollow,Software,2016.0,Unknown
+152803,F51FBCEF-0F69-466C-815A-E2D00583A72A,SimUVEx 2.0 ,Software,2017.0,Unknown
+155661,2FF0D1E9-8EB4-47AF-B9AC-38E5D4C99F33,Battrion,Start-up,2015.0,http://www.battrion.com/
+155915,0CD5B22C-F11C-4574-B137-2C8C204F9181,OpenNFT: Open Neurofeedback Training,Software,2017.0,http://opennft.org/
+155841,E94422AE-9CC8-42BF-A60A-0FBD64A74ADD,SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning,Software,2019.0,https://github.com/uzh-rpg/sips2_open
+155876,7AB87DD6-E906-4C85-BFFA-2301F8DB425A,Solar Fuels Database,Software,2021.0,https://solarfuelsdb.epfl.ch/
+155841,4FA8DF74-8B66-49BD-B86D-0790F799D934,High Speed and High Dynamic Range with an Event Camera,Software,2019.0,http://rpg.ifi.uzh.ch/E2VID.html
+155841,533E3805-4655-4E16-BA61-065781C903C8,Fast Image Reconstruction with an Event Camera,Software,2020.0,https://cedric-scheerlinck.github.io/firenet
+155841,3A591AA4-9306-4194-A07E-0545CD501E7B,Flightmare: A Flexible Quadrotor Simulator,Software,2020.0,https://uzh-rpg.github.io/flightmare/
+155841,B042261F-1CFC-4C86-8899-D8B89A889201,ESIM: an Open Event Camera Simulator,Software,2018.0,http://rpg.ifi.uzh.ch/esim/index.html
+155841,45CFC991-5E9D-4E2E-AC93-D4DE5F82B2BA,High-MPC: Learning High-Level Policies for Model Predictive Control,Software,2020.0,https://github.com/uzh-rpg/high_mpc
+155841,8F966FDD-5885-423D-B3EA-EC53A7EACF00,Fisher Information Field: an Efficient and Differentiable Map for Perception-aware Planning,Software,2020.0,https://github.com/uzh-rpg/rpg_information_field
+155841,9A9DCAB6-3149-4594-9DF7-F665377EAAD6,SUIND AG,Start-up,2020.0,https://suind.com/
+155841,DEB250F8-F5F3-4172-9070-FDC5E1C772EB,Semi-Dense 3D Reconstruction with a Stereo Event Camera,Software,2018.0,http://rpg.ifi.uzh.ch/ECCV18_stereo_davis.html
+155913,281DA6F6-A2E6-4614-BCCC-45C65A84BF23,CAsMap,Software,2018.0,https://github.com/BorgwardtLab/CAsMap
+155841,EE8A702D-21D5-4EA5-9192-11D2EA605784,Reducing the Sim-to-Real Gap for Event Cameras,Software,2020.0,https://github.com/TimoStoff/event_cnn_minimal
+155841,6A2A6AD0-F479-4BD3-937F-151264829A5C,"Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization",Software,2019.0,http://rpg.ifi.uzh.ch/direct_event_camera_tracking/index.html
+155841,C3B9DC32-271D-443A-ADF0-1F8EF5F0DD07,EKLT: Event-based KLT,Software,2019.0,https://github.com/uzh-rpg/rpg_eklt
+155841,5C7FB75D-E2AB-4562-8CBF-215322307214,The Zurich Urban Micro Aerial Vehicle Dataset,Software,2017.0,http://rpg.ifi.uzh.ch/zurichmavdataset.html
+155841,7EEC6C9E-19C0-417B-A3BF-35D401E328D9,RPG Quadrotor Control Framework,Software,2017.0,http://rpg.ifi.uzh.ch/rpg_quadrotor_control.html
+155841,E89E2338-116C-48F5-B3BA-5019C205E324,Learning Monocular Dense Depth from Events,Software,2020.0,https://github.com/uzh-rpg/rpg_e2depth
+155841,46272C1D-BAAA-4620-BE49-52656D2A4B7E,Fast Event-based Corner Detection,Software,2017.0,https://github.com/uzh-rpg/rpg_corner_events
+155841,CB19B224-F43C-412A-9101-47B3AEC93C8D,Deep Drone Acrobatics,Software,2020.0,https://github.com/uzh-rpg/deep_drone_acrobatics
+155841,B1EEB69C-2301-410B-91D2-4B7BE3890DE7,DroNet: Learning to Fly by Driving,Software,2018.0,https://github.com/uzh-rpg/rpg_public_dronet
+155841,E7F9AD26-C600-4C20-A247-3D39431A6F61,A General Framework for Uncertainty Estimation in Deep Learning,Software,2020.0,https://github.com/uzh-rpg/deep_uncertainty_estimation
+155841,7C8F19D5-6F7B-487C-AA28-24DA803864EC,Primal-Dual Mesh Convolutional Neural Networks,Software,2020.0,https://github.com/MIT-SPARK/PD-MeshNet
+155841,3BA45CE0-55E0-4C4B-9BBA-390DDD57E662,Zurich-Eye (now Facebook Zurich),Start-up,2015.0,https://www.swissinfo.ch/eng/social-media_-facebook-to-double-numbers-in-zurich-office/45251896
+155841,DE6BC973-9805-4EA2-8984-39C3DA72DD58,SVO 2.0: Semi-Direct Visual Odometry,Software,2017.0,http://rpg.ifi.uzh.ch/svo2.html
+155841,72ACBA27-2C8E-4106-AF87-5D2CFB9CC3E4,A Tutorial on Quantitative Trajectory Evaluation for Visual(-Inertial) Odometry,Software,2018.0,https://github.com/uzh-rpg/rpg_trajectory_evaluation
+155841,53606EAE-C60B-4054-95E6-5E0B76FA6017,On the Comparison of Gauge Freedom Handling in Optimization-based Visual-Inertial State Estimation,Software,2018.0,https://github.com/uzh-rpg/rpg_vi_cov_transformation
+155841,53CD5204-E41E-4427-B4EA-5EFBD2C49673,EMVS: Event-based Multi-View Stereo,Software,2018.0,https://github.com/uzh-rpg/rpg_emvs
+155841,301C87EE-E9C1-4D9A-AF6C-68FCA1CF878A,Video to Events: Recycling Video Dataset for Event Cameras,Software,2020.0,https://github.com/uzh-rpg/rpg_vid2e
+155841,06637257-C58D-401C-B7BF-85FF8468E8FA,Deep Drone Racing: From Simulation to Reality with Domain Randomization,Software,2019.0,https://github.com/uzh-rpg/sim2real_drone_racing
+155841,4326DE44-9CC3-4A16-B1D9-7C80296AB937,Are We Ready for Autonomous Drone Racing? The UZH-FPV Drone Racing Dataset,Software,2020.0,https://github.com/uzh-rpg/uzh_fpv_open
+155841,99F11827-D82B-401D-BBCF-7F92ED931BFF,Data-Efficient Decentralized Visual SLAM,Software,2018.0,https://github.com/uzh-rpg/dslam_open
+155841,BDC96968-2D8C-4E5F-B39B-930861DD9790,Image Reconstruction from an Event Camera,Software,2017.0,https://github.com/uzh-rpg/rpg_image_reconstruction_from_events
+155841,9DD3D779-45B1-48D7-BCA7-9437F7EB7FD3,VIMO: Simultaneous Visual Inertial Model-based Odometry and Force Estimation,Software,2020.0,https://github.com/uzh-rpg/vimo
+155841,97241484-2170-471E-BD6A-9D86D91AB2F8,NetVLAD in Python/TensorFlow,Software,2018.0,https://github.com/uzh-rpg/netvlad_tf_open
+155841,63A721B7-29DC-4439-A422-A4E24102BAFB,Event-Based Angular Velocity Regression with Spiking Networks,Software,2020.0,https://github.com/uzh-rpg/snn_angular_velocity
+155841,ED3BF2CA-08D5-434D-8AAA-A914EB7B3E01,The Event-Camera Dataset and Simulator,Software,2017.0,http://rpg.ifi.uzh.ch/davis_data.html
+155876,391946DF-1300-4B70-A9D3-A21799812858,SoHHytec,Start-up,2019.0,Unknown
+155841,3907A0A0-F27F-47F6-A1AD-AB9468B9297A,RPG Quadrotor MPC and Perception-Aware MPC,Software,2018.0,https://github.com/uzh-rpg/rpg_quadrotor_mpc
+155841,0855C278-6B12-4049-8B4E-B8A350951848,GPU-Accelerated Frontend for High-Speed VIO,Software,2020.0,https://github.com/uzh-rpg/vilib
+155876,1EA68CFD-83AD-4A46-9963-B904BC88F5A1,Solar Photo-Electro-Chemical Device Optimization,Software,2016.0,http://specdo.epfl.ch
+155841,E53CE816-414B-487D-AD08-C6B21BDA67E9,Event Lifetime,Software,2017.0,https://www.github.com/uzh-rpg/rpg_event_lifetime
+155841,BCE7F3C7-ED10-424F-89BA-BF10AD341A50,Matching Features without Descriptors: Implicitly Matched Interest Points,Software,2019.0,https://github.com/uzh-rpg/imips_open
+155876,D416D5A5-7406-4009-9823-BF76D90E2826,Solar Photo-Electro-Chemical Device Comparison,Software,2019.0,http://specdc.epfl.ch/
+126078,5CAD3D6A-0E06-4D2A-80A5-7C89B4DB7E5F,HighDim Gmbh,Start-up,2011.0,http://www.highdim.com
+126078,119B00C5-B95C-4751-A41C-2F52F91FF168,Spheroidals - is currently being established,Start-up,2015.0,Unknown
+141724,2CD2E00C-51DC-472B-9F48-3E0A4D796C00,Cost of lead-time calculator,Software,2015.0,http://cdf-oplab.unil.ch
+137406,D9CAD112-E76D-4D77-ADC0-6F6CFAD802E0,e-learning center at KROK University (with e-learning lab),Start-up,2012.0,Unknown
+128384,9AF2DD68-9F88-4F2F-98E3-BF8FA7F2937A,case overview,Start-up,2013.0,Unknown
+130578,4D4D2721-DC08-4337-907D-7118F4798E3E,SmarterBetterCities AG,Start-up,2012.0,http://www.smarterbettercities.ch
+137989,803D1B53-6E1D-42EA-8600-7557CD85593A,Scientific Network for the Caucasus (SNC-mt),Start-up,2013.0,Unknown
+159279,24301B1D-A27E-437E-A23F-66E31FF7C723,uMed - Your Choice (videogame) ,Software,2019.0,Unknown
+159279,68971F1C-E96E-4CCD-8A74-E4564C298D8C,uFin - The Challenge (videogame),Software,2019.0,Unknown
+159279,0298740A-75F8-4B8E-9229-E7BE2D34EBC4,Game Editor (software to generate games),Software,2019.0,Unknown
+142969,7DDD541C-A537-4CA6-8C61-F3DDECD977DD,Public use file of the Bulgarian School Leaver Survey 2014 (BSLS 2014) ,Software,2017.0,https://forsbase.unil.ch/project/study-public-overview/12939/0/
+133496,54C46034-0916-4774-81E7-EA10C743AFA1,Neue Internet Seite der Wyss-Coray Gruppe,Software,2010.0,http://twclab.stanford.edu
+144834,A1284A4E-8BD3-4683-A262-8DE64F46A23C,Pediatric Growth Charts App,Software,2013.0,http://p2.github.io/growth-charts/
+144834,A16953D4-8712-4FA8-8734-DBDEE602A3BE,Redland Objective-C RDF Wrapper,Software,2012.0,https://github.com/p2/Redland-ObjC/
+146281,EC40A91F-7B6C-4B73-BD07-11CD10C0474A,Clustering of deformation fields in compuational anatomy,Software,2015.0,https://github.com/ChristofSeiler/BayesianNonparametrics
+146281,3199D561-A7A0-4F46-87DA-8AE62E6506BC,Bayesian image registration,Software,2017.0,https://github.com/ChristofSeiler/BayesianImageRegistration
+146281,2ED591EA-5485-47BF-AA8C-BD24639AFB20,Convergence diagnosis of Hamiltonian Monte Carlo,Software,2017.0,https://github.com/ChristofSeiler/curvature
+144834,94E85756-D87F-4484-8011-B70B65DE6215,SMART iOS Framework,Software,2012.0,https://github.com/chb/SMARTFramework-ios/
+167212,06409460-45EE-438C-897F-BFD1C396840C,Online Active Model Selection,Software,2021.0,https://github.com/DS3Lab/online-active-model-selection
+167326,DAC2C420-61C0-4087-A069-6F327E8E4152,EstimNetDirected: Exponential random graph model parameter estimation for very large directed networks,Software,2020.0,https://github.com/stivalaa/EstimNetDirected
+167326,04E166CF-D546-48F3-BE04-85B8CF60AA98,Estimnet,Software,2019.0,http://www.estimnet.org/
+167212,953CE944-0D30-4321-83F5-77F308FD1110,Library for Coreset Constructions,Software,2019.0,https://github.com/zalanborsos/coresets
+167213,D98DB590-AB46-48D6-854E-4225BA72BDA4,Scala 3,Software,2021.0,https://github.com/lampepfl/dotty
+167326,FA16C77C-EC89-47B1-A045-FC0BFABCE5DF,ALAAMEE: Autologistic Actor Attribute Model (ALAAM) parameter estimation using Equilibrium Expectation (EE) algorithm,Software,2020.0,https://github.com/stivalaa/ALAAMEE
+167212,F85179FF-A248-47FD-9120-6AA125DA7176,Library for Bilevel Coresets,Software,2020.0,https://github.com/zalanborsos/bilevel_coresets
+167212,E653E041-1193-4FE9-B18B-0E3803B08870,Online Variance Reduction,Software,2018.0,https://github.com/zalanborsos/online-variance-reduction
+189588,37B8B9F2-30CB-45C2-B7B6-082D59666D92,dsp-ui-lib,Software,2020.0,https://github.com/dasch-swiss/dsp-ui-lib
+189588,934E38FB-9ED2-48C0-9453-1E6F1A635C39,SIPI,Software,2020.0,https://github.com/dasch-swiss/sipi
+189588,907360D3-6A50-4634-8CC0-4509D44CE91A,dsp-tools,Software,2020.0,https://github.com/dasch-swiss/dsp-tools
+189588,A9375938-6A3E-4127-83F2-40A54A94DB00,dsp-ark-resolver,Software,2020.0,https://github.com/dasch-swiss/ark-resolver
+189588,088E53B7-EF03-4614-91A0-C409801AC7B3,dsp-api,Software,2020.0,https://github.com/dasch-swiss/dsp-api
+189588,5647332F-6526-472A-B2BF-B4B017883060,dsp-tangoh-app,Software,2020.0,https://github.com/dasch-swiss/dsp-tangoh-app
+166348,1EF9A035-6B1E-4DC0-822E-B65E3F692A7F,smartphone app DyMand MobileCoach Client,Software,2019.0,http://bit.ly/mc-phone
+132374,F5ABF966-FE82-480E-BD48-B6BB45D92270,"Transdisicplinary Project ""Global TraPs""",Start-up,2011.0,http://www.globaltraps.ch/Global_TraPs.html
+166348,F9227F12-C17B-4E4B-A961-05FBBD45FE29,DyMand Watch Client,Software,2019.0,http://bit.ly/mc-watch
+123894,14C05A90-7520-45A0-99CB-5ED355850094,Pastoralism unit at the ministry of agriculture,Start-up,2012.0,Unknown
+123894,912C93E8-13E3-4E73-90C7-05B8468184A9,University of Peshawar to establish Centre of Pasture Study,Start-up,2012.0,http://www.upesh.edu.pk/news.php?news_id=1109
+177816,0BAAD613-9729-4336-8F37-F506A64817FA,EREBUS – lava lake convection model,Software,2020.0,https://github.com/kellertobs/erebus
+164616,957728A1-5B42-4416-93A2-3AAA99487D6D,ppfem (MATLAB routines for the FEM with piecewise polynomial splines on product meshes),Software,2017.0,http://bit.do/ppfem
+177804,CE6C8091-00C0-49EE-9F88-B6E17D3FD9AD,Vesseloscillation Analysis,Software,2019.0,Unknown
+171241,C0BE28CE-E260-42F9-A245-24DAD791D10D,HydroBID,Software,2018.0,https://columbia-water-center.shinyapps.io/hydrobid_opt_reservoir_optimization/
+171241,5BD216C1-4A88-4053-82B4-007302443AB3,AWASH,Software,2018.0,https://github.com/AmericasWater/awash/tree/v1.0
+164673,5EA01425-A9FA-4B35-8115-D20E23397654,IslandCompare,Software,2017.0,Unknown
+164673,8D5F9E30-336A-49A4-BD4A-DE6F83392428,IslandPath-DIMOB v1.0.0,Software,2017.0,https://github.com/brinkmanlab/islandpath
+158428,F86602DE-6F49-4E7D-9DE0-DF3C3CA93DE5,OASIS: Fast online deconvolution of calcium imaging data,Software,2016.0,https://github.com/j-friedrich/OASIS
+164673,04B13558-FF0C-4712-AB51-84C4E5F315C0,IslandViewer 4,Software,2017.0,http://www.pathogenomics.sfu.ca/islandviewer/
+171598,51D8A1CF-D43B-4C4B-AC29-C6668DCD7D8C,DGM: Dynamical graphical models for multivariate time series data to estimate directed dynamic networks in functional MRI,Software,2018.0,https://github.com/schw4b/DGM
+158500,93511E37-09FA-4DF0-A306-0549A891FFC9,Convergence diagnosis of Hamiltonian Monte Carlo,Software,2017.0,https://github.com/ChristofSeiler/curvature
+158500,AEA2F6CB-011E-477D-B00B-738CDDC27B12,Multivariate heteroscedasticity models in functional connectivity,Software,2017.0,https://github.com/ChristofSeiler/CovRegFC
+158500,0503DE65-479A-4698-A34D-6B4F160A38C8,Differential correlation analysis between brain and cognition,Software,2017.0,https://github.com/ChristofSeiler/braincog
+154561,2C331A7B-F6CF-488B-8804-56852999288E,Big Blue Technologies,Start-up,2016.0,http://www.bigbluetec.com
+158500,961B8AB1-6015-4A68-BE0D-574D525AC258,Bayesian image registration,Software,2015.0,https://github.com/ChristofSeiler/BayesianImageRegistration
+163456,FC13A3CC-9F38-4D98-A541-71509F0EE3FF,model4you R package,Software,2017.0,https://r-forge.r-project.org/projects/partykit/
+170280,C1377B9B-E496-456B-9958-B2D7A877BE3F,R package RDIRDIRGAMMA,Software,2020.0,http://doi.org/10.5281/zenodo.4404592
+179023,D3390C07-6A4B-43CE-B399-D013F294CDB1,Kilobot code,Software,2020.0,Unknown
+163456,BBE6A267-5030-4A68-AF17-B5354D8DEBC1,Data cleaning code for PRO-ACT database in TH.data R package,Software,2016.0,https://cran.r-project.org/package=TH.data
+157092,F6BDB20D-6290-4BF8-88A8-9EF917A0D67A,MaxWell Biosystems,Start-up,2016.0,www.mxwbio.com
+159966,7ECECD59-A478-413B-B255-8FCFAF1E4822,Dose response curve fitting package: bendr,Software,2019.0,https://github.com/alxbetz/bendr
+163456,391BF2D4-0C0B-4762-801D-5CA298A1B97C,palmtree R package,Software,2017.0,https://r-forge.r-project.org/projects/partykit/
+157040,15C1AA95-8D88-4BC6-BCD9-70A6B2357C21,Software Robust thalamic nuclei segmentation method based on local diffusion magnetic resonance properties,Software,2018.0,https://zenodo.org/record/1253021#.W7Nv5lJoSEI
+179023,6472A651-40DD-406D-A8CB-7A7B984ABF96,Second-order models (Python),Software,2020.0,Unknown
+179023,52FE4B74-E42C-4349-8269-D95464C7F5C8,First- and second-order models (Matlab),Software,2020.0,Unknown
+170032,633AB563-2C69-416D-84B6-FE635EF16F6C,Action Potentials (The startup will be established during the next weeks),Start-up,2022.0,Unknown
+159966,B50E5143-D1AA-4BCB-8DC7-09AD50625592,MIcroarray ReAnalysis,Software,2019.0,https://github.com/alxbetz/mira
+147138,C12581D0-A9B4-4FED-8F36-2FC04207043C,PCSF: An R-package for network-based interpretation of high-throughput data,Software,2017.0,http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005694
+149828,106B86CD-4E73-4C8B-B1C5-F5E76569225E,Algo4U,Start-up,2016.0,http://algo4u.ch
+149828,56081220-5E01-43D2-A8D8-E1E0FE11ECF1,HART: a new software for electro-mechanical cardiac simulations,Software,2017.0,http://ccmc.usi.ch
+163456,1B1C186E-CD45-4C59-A676-E66CE7F78531,Update of the partykit R package,Software,2017.0,https://r-forge.r-project.org/projects/partykit/
+170280,A48CF340-1DCF-492E-BC4C-F749C5D7EF44,R package RSTANBF,Software,2020.0,http://doi.org/10.5281/zenodo.4404588
+170280,AA18F45B-E7B1-4432-9C60-D61ACFBCDDB6,R package BAYESSOURCE,Software,2019.0,http://doi.org/10.5281/zenodo.3
+137919,6AD9F74D-7FAE-4B51-9594-28DAE8DA1B87,R package surveillance: Temporal and Spatio-Temporal Modeling and Monitoring of Epidemic Phenomena,Software,2015.0,http://surveillance.r-forge.r-project.org/
+191220,7A4B203B-1CAC-422C-B27E-1AABB318EE06,PACS-score (Risk calculator for post-acute COVID-19 syndrome / long COVID),Software,2021.0,www.pacs-score.com
+174853,9971CE88-1F16-4E16-8D66-87930B60759A,Real-Time Monitoring of Financial Systems with ACTUS,Software,2018.0,http://finlab.engineering.zhaw.ch/shiny/BA_FS2018/
+174853,305E9C67-77D3-4283-8ADF-A385D6F83838,ACTUS - Algorithmic Contract Type Unified Standard,Software,2018.0,https://www.actusfrf.org/developers
+174836,4666803A-E8B2-4A17-9C57-52D4379E2C30,Tandem Repeat Annotation Library (TRAL) v 1.0.1,Software,2019.0,https://github.com/acg-team/tral
+174836,8D8B8DA9-AE38-4CC4-BE95-00B73888CEB3,ArmRP annotation pipeline,Software,2018.0,https://github.com/acg-team/armrp-pipeline
+174853,DEE1A4C9-9649-47AB-BEBF-8598460B6936,rActus: An R interface to ACTUS,Software,2018.0,Unknown
+174704,89245A7B-BEC6-4661-9AAE-DF21C0CEDE76,MicroVaccines,Start-up,2018.0,Unknown
+163684,8EFDBB88-C722-4A3F-A520-FDB6699DA511,"ImageJ Plugin for cell segmentation, based on regions of interest",Software,2020.0,https://github.com/tbgitoo/growRois
+150637,5687B62A-C7BA-446B-BC95-DFFCA4765664,QuantActions,Start-up,2016.0,www.quantactions.com
+176938,27DA04FE-E8AE-44B7-9B9E-075FEE8DD925,pathpy,Software,2019.0,https://www.pathpy.net/
+170442,103EB5C2-E291-4C9C-A7E8-6E5617904D1B,Combinational Regularity Analysis (CORA),Software,2021.0,https://github.com/PoliUniLu/cora
+176778,C058E525-255B-4370-81ED-D71F925A7D1B,Pygmalion-simple 1.0. A tool to draw interactive and diachronic semantic maps,Software,2020.0,http://woposs.unine.ch/pygmalion-simple.php
+176778,DC2C1F21-FF45-4FB8-A513-DFF7494E1995,Pygmalion-modal 1.0. A tool to draw interactive and diachronic semantic maps of modality,Software,2020.0,http://woposs.unine.ch/pygmalion-form.php
+150473,5E3A282B-87D3-4657-AA91-CA9702E28092,"Studiengang Fachdidaktik Philosophie, Pädagogische Hochschule Luzern",Start-up,2018.0,https://www.phlu.ch/faecher-und-schwerpunkte/philosophie.html
+179089,5418A11F-A0BD-473E-A786-6535633D4B69,OCNet: Optimal Channel Networks (R Statistics Package),Software,2019.0,https://cran.r-project.org/web/packages/OCNet/index.html
+170645,EC6EA82D-9914-4614-9668-5018F20D657F,Agroecology Solutions S.L.,Start-up,2021.0,Unknown
+176808,D6A6A85F-4061-4E6A-B737-53B402919DE6,Radiation Scattering in Simulations,Software,2020.0,http://rascas.univ-lyon1.fr
+176843,3C928816-6FA2-42E6-BC4A-0BF5C38CE4AB,cape: R package,Software,2021.0,Unknown
+194813,80E0134B-7DF2-44BD-B992-E44ED6CD9878,plot.counts,Software,2021.0,https://doi.org/10.5281/zenodo.4589498
+194813,26499067-97F7-40CF-BE61-E272A09B84C4,reproducibleCalculationTools,Software,2021.0,https://doi.org/10.5281/zenodo.4594515
+194813,D9C7526E-3137-4035-B163-FF0D844734A0,textureAnalyzerGels ,Software,2021.0,https://doi.org/10.5281/zenodo.4589276
+176938,FCA9A33B-207F-444C-9E94-5800D44CF875,git2net,Software,2019.0,https://github.com/gotec/git2net
+176843,F0180DBE-21D6-4D9F-A9E8-932C93AA00AB,irg: R package,Software,2020.0,Unknown
+144645,BA569DE0-8CB5-48AF-9154-79286CC5EC97,HiD Imaging,Start-up,2019.0,http://www.hidimaging.com/
+176843,39E6BA1E-11D2-447C-A74D-D03E1F3DAD59,swag: package pour le logiciel de statistique R,Software,2020.0,https://cran.r-project.org/package=swag
+176843,3B9D273A-A99C-449D-ACC6-CC682BBCACB3,WV: package pour le logiciel de statistique R,Software,2019.0,https://github.com/SMAC-Group/wv
+170442,9C75D780-9506-4534-A474-BB6028EE6D9D,Logigram,Software,2020.0,https://github.com/PoliUniLu/logigram
+163684,BB219B8D-E51B-4400-B6BD-BF61BEBE5C39,Volumina Medical SA,Start-up,2018.0,http://www.volumina-medical.ch
+172916,1A896F0D-F838-4F7B-999F-8858CCA1B6FB,HiD imaging,Start-up,2019.0,http://www.hidimaging.com
+163684,CF3E5C90-A131-400A-967B-8F8B4D76B2F0,ImageJ Plugin for evaluation of frequency and phase in calcium imaging,Software,2019.0,https://github.com/tbgitoo/calciumImaging
+176843,B6B15DE2-8405-4307-B10E-79447C5C8829,avar: R package,Software,2019.0,Unknown
+194813,C496FA81-CA7E-472D-9DFC-7ACD2B7C5741,moultonTools,Software,2021.0,https://doi.org/10.5281/zenodo.4737009
+194813,F643F891-1AFB-45C8-89E0-7686576F0D7B,PoreSizeExcel,Software,2021.0,https://doi.org/10.5281/zenodo.4892536
+176843,978790A2-C1D3-459C-B1BC-63BF3687A7C8,simts: R package,Software,2019.0,Unknown
+176843,A4E5AD93-9E6A-4781-832E-6446C2055D21,ib: package pour le logiciel de statistique R,Software,2020.0,https://cran.r-project.org/web/packages/ib/index.html
+194813,F9724D56-E142-4C49-99EE-2CB1090AB985,particleShearEvaluation,Software,2021.0,https://doi.org/10.5281/zenodo.4594649
+176843,BAF91C59-E2F3-4850-A7F3-418A96AF77D0,gmwm: package pour le logiciel de statistique R,Software,2020.0,https://github.com/SMAC-Group/gmwm
+194813,90796A9A-F679-4A0A-AC10-38F95948A4E5,feretPore,Software,2021.0,https://doi.org/10.5281/zenodo.4945115
+194813,39015119-FE4A-4786-91A6-51293AFE1166,particleShear ,Software,2021.0,https://doi.org/10.5281/zenodo.4589212
+123524,7F474FD6-B0DD-4038-8F18-13670C01F295,Bicycle Therapeutics,Start-up,2009.0,http://www.bicycletherapeutics.com
+170529,FE388B53-1E6D-4C72-B71A-23AEEE461D13,PyDriller: Python framework for mining software repositories,Software,2018.0,https://github.com/ishepard/pydriller
+143096,3B1B4FE0-635E-4CB8-B0FD-0A14B4342C4D,geoGAM: Select Sparse Geoadditive Models for Spatial Prediction,Software,2016.0,https://cran.r-project.org/web/packages/geoGAM/index.html
+143097,7481BD50-0DE7-4E19-8285-DC7603F9A09F,Biotag,Start-up,2018.0,http://biotag.nl/en/home-2/
+139944,46D5DE82-7171-4CA3-8879-915F9EF56C9B,Emission Impossible,Software,2018.0,http://www.emission-impossible.ch
+158540,CE68D806-F4E8-4EBF-B09F-4538B8187930,Orthoptera App for Android,Software,2015.0,https://play.google.com/store/apps/details?id=com.garzotto.orthoptera
+151529,CED070F1-5AC9-4BE0-B3BB-10F9BD76F7F3,"Application ""pARTicip"" für IOS",Software,2016.0,https://itunes.apple.com/ch/app/particip/id1059673425?mt=8
+145653,362CD6CC-0755-419B-B9BA-59C5D951F814,Orthoptera App,Software,2014.0,https://itunes.apple.com/ch/app/orthoptera/id869262721
+151529,8074199B-3607-4806-81F4-193B6E7BE8D6,"Update der App ""pARTicip"" für IOS und Android",Software,2016.0,http://welcome.particip-app.ch
+151529,3EADE0B8-50AC-4C08-9EA9-B0AE4648FFB8,"Application ""pARTicip"" für Android",Software,2016.0,https://play.google.com/store/apps/details?id=ch.bfh.ti.risis.particip
+145616,0BB1020D-DB37-4827-94F4-AC0AF0B33B5F,Mathema,Software,2015.0,http://www.tom-books.com/en/mathema
+158540,3654098A-618C-4F4D-A5F5-98A7EF9596FD,Orthoptera App for iOS (Version 1.2),Software,2015.0,https://itunes.apple.com/ch/app/orthoptera/id869262721
+177065,E2B99C6F-C2BD-4A88-AEBE-292D102ABB7A,Learning And Reading Assistant (LARA),Software,2019.0,https://www.unige.ch/callector/lara/
+166053,D1ADCFE1-E85F-44D8-BDD9-DCB0308D144F,MorphoTooth,Software,2019.0,https://github.com/stbrue/MorphoTooth
+143768,E9564954-924B-4BC8-BF02-98953EC368A2,godon,Software,2016.0,https://bitbucket.org/Davydov/godon
+136073,E9245616-892D-4C0C-9245-C9E459C9CF23,Antimicrobial pens made of copper,Start-up,2011.0,http://copperpen.ch
+166258,7A5B3CB5-2FC4-4557-8B95-75023E6D9A83,MASCOT add-on fuer BEAST2,Software,2018.0,https://taming-the-beast.org/tutorials/Mascot-Tutorial/
+143768,127B457B-EA27-4371-99F1-DD5C85E045D5,FastCodeML,Software,2016.0,https://gitlab.isb-sib.ch/phylo/fastcodeml/
+143768,8378F218-BAA6-4CB6-AEBF-740627A420FB,HOGAN,Software,2017.0,https://bitbucket.org/XavMeyer/hogan
+181303,47152C56-6C08-4487-9F94-62007716EC56,KAISER Assigns Inbred Stock Elders Reliably,Software,2021.0,http://github.com/jnrunge/kaiser
+184404,BAA73358-2FC5-491F-ABFF-F9545A78D157,molSimplify: machine learning capabilities for studying metal-organic frameworks ,Software,2019.0,Unknown
+195662,6C19517C-2D89-4D31-9F4C-09C52A8899E2,MESMER,Software,2021.0,https://github.com/MESMER-group/mesmer
+187746,7DF043E3-B60A-4CFE-941C-1B3C34ED5132,SPPAS Qc,Software,2020.0,Unknown
+187637,19BDBC0A-E6D6-48AB-8B8C-547C42E36E96,Sedentary Behaviour Classification for activPAL and ActiGraph data,Software,2021.0,https://github.com/RomanKuster/POPAIv2.0
+195662,3BB28930-7146-4C7D-8DDC-D1DF1782361A,MESMER-OpenSCMRunner,Software,2021.0,https://github.com/MESMER-group/mesmer-openscmrunner
+181459,41872210-5B0E-4070-9F7A-AAC3BF4F20B6,ChannelFlow.jl: A research code for turbulent flow simulations,Software,2019.0,Unknown
+168433,4190C2CF-0063-4133-A88C-3D2B1E608D8C,Article,Start-up,2017.0,https://www.tandfonline.com/toc/wrdh21/current
+184273,346B0418-0F08-4787-9BD5-C195F210FD8F,"Code for the Medical Image Analysis paper ""Spatially Regularized Parametric Map Reconstruction for Fast Magnetic Resonance Fingerprinting""",Software,2020.0,https://github.com/fabianbalsiger/mrf-reconstruction-media2020
+138069,518BEE44-6B4E-4CA5-AE59-EAEDF32EA992,sdvig press,Start-up,2012.0,http://www.sdvigpress.com
+156493,1CA490C1-0AB4-45DC-ACBC-54762984D9F2,MSGranger: matlab toolbox for Multiscale Granger Causality,Software,2018.0,https://www.unige.ch/fapse/mad/services/matlab/msgranger/
+140549,01B7A7AF-6A9D-46C4-A124-9B1D29022DC2,CatchEye,Start-up,2014.0,Unknown
+122353,55E2DEFA-C5D2-4A59-B862-1C87583720E2,BARD1AG,Start-up,2010.0,Unknown
+146647,830CBA4A-BA43-4561-9132-D9D5B6DD93C2,STEP-TRAMM,Software,2018.0,https://step.ethz.ch/step-tramm.html
+156136,088440CC-4BE3-48B7-B290-E017F45402CF,worldmapcreator.com,Software,2016.0,www.worldmapcreator.com
+169222,50A4342B-0376-417A-8B0B-FD1744153124,"Lancierung Webseite zur Kommunikation von WHO-, BAG- und kontextspezifischen Richtlinien zum Umgang mit Covid-19 Patienten und deren Angehörigen in der interprofessionellen klinischen Seelsorge.",Software,2020.0,www.covid-spiritualcare.com
+176084,0747B274-3FB6-4563-BB75-E97E8F74A4E3,Logible - Sequence Analysis,Software,2020.0,https://sequence-analysis.frametrail.org/
+176226,551BA030-FF38-4F36-AE36-0E0EB82C1EA1,All in R DamID sequencing pipeline,Software,2017.0,https://rdrr.io/github/damidseq/RDamIDSeq/
+159565,132802BE-C1D9-4B84-BB5B-F58EC982A5DD,Polariton Technology,Start-up,2019.0,https://www.polariton.ch/
+120309,F9C80664-A819-4AB0-9CDF-59854C14618A,Dimmunix open-source prototypes,Start-up,2011.0,http://code.google.com/p/dimmunix/
+162925,809FACE1-7206-4F73-9996-29FAD4369AD9,UNSCdeb8,Software,2018.0,https://unscdeb8.ethz.ch
+147056,A95F376E-B17E-44AF-986B-B5EAD8E83CB1,IONIGHT AG,Start-up,2014.0,http://www.ionight.com
+152548,7971E1C7-6A1C-4DC2-9F2C-E4CF55A656A9,R Package psychotools: Psychometric Modeling Infrastructure,Software,2018.0,https://cran.r-project.org/package=psychotools
+132064,8C1D5A35-1EB5-4713-9CD8-136680339F78,PPM Library and PPML Language,Software,2013.0,http://mosaic.mpi-cbg.de/?q=downloads/ppm_lib
+146471,86B141FD-B42C-4F36-909B-AA1AF9030D57,ScienceMatters,Start-up,2015.0,www.sciencematters.io
+157182,7DE2A8C8-FA0A-4762-A33F-FF93343260D1,Neuronal activity analyzer,Software,2016.0,http://neurons.ee.ethz.ch/
+140261,FF63AC97-234C-4A28-BB12-BD202EBA2DCD,Animierter 3D-Kurzfilm zur Entstehung eine Grabes für die Dauerausstellung des Museums v. Sibari,Software,2015.0,Unknown
+163210,F992C7CE-6112-4997-94E7-9F59C9C1D6A6,Post-processing tool to compute SHS in the GROMACS software,Software,2017.0,https://github.com/cosmo-epfl/gromacs-cosmo
+150344,A0929A4E-B773-457D-A2AC-E709A26424FB,Vivamus Health Consulting GmbH,Start-up,2017.0,www.vivamus-consulting.ch
+165819,3F4DA5B2-3485-417D-BF43-C5E57CEE07BE,"Multilingwis - Ein System zum Durchsuchen grosser, multiparalleler Korpora",Software,2017.0,http://pub.cl.uzh.ch/purl/multilingwis
+150131,66DF9145-9460-40ED-93AC-342507BD0446,Lang Tech Consulting,Start-up,2015.0,https://www.lang-tech-consulting.com/
+127222,CB330937-95E0-4FB0-A224-1A3755FC668F,Grosso Link Sàrl,Start-up,2013.0,http://grosso.link/
+165633,72D36E5C-2E27-484C-9ADB-3B12E4FD2B34,RoSe-App,Software,2018.0,Unknown
+130850,52BEE78A-EC96-412E-BF49-44CFDABAACFF,G-Therapeutics SA,Start-up,2014.0,http://gtherapeutics.com/
+143411,96CE7B88-EC77-4A00-B4BF-E3272AA749C7,Kunendo AG,Start-up,2014.0,Unknown
+165564,7B13A49B-7674-42FB-9078-154ADAB28F3D,"Tesla, a Shared Platform for Magnetically-Steered Medical Device",Software,2017.0,Unknown
+175729,C11A889B-D037-41D9-BB68-C606E03A2698,Aekip SA,Start-up,2018.0,https://aekip.ch/platform/
+149663,95971C6E-942C-4270-A811-EE7B772EB4EA,Davos Instruments,Start-up,2016.0,www.davos-instruments.ch
+153390,989E51B0-006B-4600-A0C3-F90D047E0648,Lipidon,Start-up,2018.0,www.lipidon.com
+166010,FC553E47-E4ED-486F-99B6-2442B84A39EF,doremi (R package),Software,2020.0,https://cran.r-project.org/web/packages/doremi/index.html
+156069,4053B42B-0EBA-4323-BC33-C985C2A107E2,R package mvPot,Software,2018.0,https://cran.r-project.org/web/packages/mvPot/index.html
+172527,A87137CC-ADF4-40AD-86C3-D1F412D5BA80,tb-mean-field-hubbard,Software,2021.0,https://github.com/eimrek/tb-mean-field-hubbard
+166476,0D315C1B-FE89-4380-A423-D13217E832E2,Gigabases Switzerland AG,Start-up,2018.0,https://www.gigabases.com/
+149436,2C6CE982-F7F2-4B40-9C3A-D19E68033ADA,C - mfree_iwf/ul_cut_gpu,Software,2018.0,https://github.com/mroethli/mfree_iwf-ul_cut_gpu
+169451,92A3D9D8-0928-4369-B857-CFCD45A8283E,BrightPeak AG,Start-up,2017.0,Unknown
+169115,E0FAC4E3-B03A-4416-A126-65BB64CB5190,RealPSPA,Software,2017.0,http://www.unige.ch/~dlu/RealPSPA.html
+162693,B38A7A0B-7ED4-4836-8347-88EF5BA64F8F,Recurrence Quantification Analysis Software in Python,Software,2018.0,https://osf.io/gd6vr/?view_only=b81bdc4ad4d94cfbb424df0546ba0beb
+132553,16EA6536-CB6A-4271-90B7-C9CF8FCDCA8A,Davos Instruments,Start-up,2016.0,http://www.davos-instruments.ch
+149427,6F40D5F1-7368-42D9-B74D-CA40CAE812FA,Lightweight Filtering,Software,2014.0,https://bitbucket.org/bloesch/lightweight_filtering
+175933,BD722645-7303-40B9-886C-C8AA6AEE6407,sl4bayesmeta: Sensitivity and learning for Bayesian meta-analysis,Software,2019.0,https://r-forge.r-project.org/projects/sl4bayesmeta/
+132766,AFE1E471-C42E-43B6-B75A-C8F5379052FE,ZV Hamiltonian MCMC code,Software,2013.0,https://www.ucl.ac.uk/statistics/research/csi/software/files/ZV_GeometricMCMC.zip
+175676,E1B65BFE-A552-48A0-96EC-C9261F257175,Neural-Network Guided Expression Transformation,Software,2020.0,https://github.com/epfl-lara/nugget
+159433,0A212AA3-0D25-4043-9CF4-CDC4B86CE48C,Stemmarest: a repository for variant text traditions,Software,2019.0,https://dhuniwien.github.io/tradition_repo/
+179158,24632DA8-268B-4AFF-B18D-CE9D8888B78C,nma_contribution: R package to calculate contribution of studies in network meta-analysis.,Software,2019.0,https://github.com/tpapak/nma-contribution.
+153540,6CF2571B-FC70-42A8-A815-CBEEB815EAF9,3D-image-reconstruction-of-XPEEM-images,Software,2018.0,https://github.com/jaianthv/3D-image-reconstruction-of-XPEEM-images
+132766,E124ECC4-960F-41AE-BDC9-CC3EF6FDF083,ZV MCMC code,Software,2012.0,https://www.dropbox.com/sh/rkw2d89svm1gx5u/9BEC3CMCu9
+153379,AE1E20A6-E217-4E2A-9335-BF74BB59DB59,MsSBFEM,Software,2017.0,http://www.chatzi.ibk.ethz.ch/research/selected-research-projects/snf-200021_153379.html
+175600,06452498-AC16-4DD1-BF3A-7ACAC286D4EE,QZabre GmbH,Start-up,2018.0,https://qzabre.com/
+175933,CF97DA68-F84C-40BB-AFE0-C0E58584A028,si4bayesmeta: Sensitivity and identification for the Bayesian Meta-Analysis,Software,2020.0,https://github.com/hunansona/si4bayesmeta
+130394,328D64A7-95B6-4BB1-BCE3-B007FA6094ED,ARAMIS - R package implementing AMIS,Software,2012.0,https://www.dropbox.com/s/agj9ibhg9d6uvtu/ARAMIS_1.0.tar.gz
+153047,26C9F7F7-0480-4912-9521-BD210A4A9524,IONIGHT,Start-up,2014.0,http://ionight.com
+166280,77794FB5-446F-4BDF-95E8-BAB18036A59F,ThermoOX,Software,2020.0,http://oxygen.petrochronology.org/software/
+153554,99943523-079E-4877-A369-7251E8AFC474,Contribution and maintenance of Bob,Software,2017.0,https://www.idiap.ch/software/bob/
+175676,ABB9FE44-B19B-4D25-817A-BE5687A7123A,About LL(1) parser combinators in Scala,Software,2020.0,https://github.com/epfl-lara/scallion
+159233,8D28D56D-123F-4200-B8E4-A57985475D05,LeoSoC,Software,2018.0,https://github.com/Andrea-Guerrieri/LEOSoC
+149861,5BB0443F-8948-4242-8108-C6E71D52DD1C,bigcat,Software,2016.0,https://github.com/saalfeldlab/bigcat
+165546,FFAD1482-F208-47F0-9F18-C74BF32F7F96,pa - Performance Change Analysis,Software,2019.0,https://github.com/chrstphlbr/pa
+149436,9B021179-28F9-49F7-A0AD-C4205833D535,D - mfree_iwf/ul_cut_gpu_3d,Software,2018.0,https://github.com/mroethli/mfree_iwf-ul_cut_gpu_3d
+166154,17A914E0-EF24-4B10-AD11-7B6D2599495B,Dotty Research Compiler,Software,2019.0,https://github.com/lampepfl/dotty
+149427,66A528A4-3F06-4F9B-B8F6-C1EE23025B4A,Robust Visual Inertial Odometry,Software,2015.0,https://github.com/ethz-asl/rovio
+175676,D7B5BCC1-00CB-4D2B-BC30-C1F4C7334AB7,Interactive Theorem Proving based on Inox,Software,2020.0,https://github.com/epfl-lara/welder
+143225,2A719E5F-0099-43CE-8D4A-A682F7C99882,Ressources Urbaines,Start-up,2015.0,http://ressources-urbaines.ch
+173124,3E42874D-5440-4110-8EBA-C333356B914B,MultiROI TZ Profiler,Software,2019.0,https://github.com/volterralab/MultiROI_TZ_Profiler
+169503,67CE7AAC-99C5-46F7-8E88-8B00F62689ED,Prusti Verification Tool,Software,2018.0,http://prusti.ethz.ch
+153379,DE0FF306-B403-48D0-A376-9658A55C21D3,SBFEM_2D_static,Software,2017.0,http://www.chatzi.ibk.ethz.ch/research/selected-research-projects/snf-200021_153379.html
+155907,2E922CA6-1929-4A84-BE43-9396A4EBEE01,MAV'RIC: EPFL drone autopilot,Software,2017.0,https://github.com/lis-epfl/MAVRIC
+126905,BE632CEB-D718-476D-A90D-94ABE36C74DA,SwissLitho AG,Start-up,2012.0,Unknown
+143607,902F6435-9374-4288-9AEE-87E48014ABA1,Zurich-Eye,Start-up,2015.0,http://www.zurich-eye.com/
+125314,3D29131C-3420-4582-A4FE-9DF08AA6B262,The SMARTER Ambrosia APP (for iPhones),Software,2013.0,http://www.unifr.ch/ecology/groupmueller/
+122551,5E36AB00-7120-4589-B28A-9D16AA2A52F3,CopperPen,Start-up,2011.0,http://www.copperpen.ch
+153297,F47201DD-9DCF-48C9-8A77-A0837BA41F26,Scalismo UI,Software,2017.0,https://github.com/unibas-gravis/scalismo-ui
+175933,B5C85640-B3E0-435B-BE28-A2AF3902595A,pa4bayesmeta: Prior Accuracy for Bayesian Meta-Analysis,Software,2021.0,https://r-forge.r-project.org/projects/pa4bayesmeta/
+149410,2BB821C5-93BE-4927-AE28-A3038BF74234,"rem R-package, Version 1.3.1",Software,2018.0,https://github.com/brandenberger/rem
+159715,81F7076C-79AA-4CF8-973A-A34C4CE47CF8,R package pCalibrate: Bayesian Calibration of P-Values,Software,2017.0,https://cran.r-project.org/package=pCalibrate
+153554,3DBC393E-DCE3-45F9-AF3B-A3582ED104F9,On-going face recognition benchmark,Software,2017.0,https://gitlab.idiap.ch/bob/bob.bio.face
+172733,CAE1CB1A-821D-42D1-A09D-A9A2BD55BF50,Iliad aligner,Software,2020.0,https://github.com/szenzaro/iliad-aligner
+120476,0A98A225-CE98-45AB-BA70-A5A5A8BEDB63,SAKK 31/10 Studie: Phase  I/II study of Nelfinavir in combination with lenalidomide in lenalidomide-,Start-up,2011.0,Unknown
+166280,EFCA3855-41D5-4C5C-AD85-A6D425A7D638,PTLoop,Software,2020.0,http://oxygen.petrochronology.org/ptloop/
+155907,D2BD3C24-6247-40E9-8821-7F45BF269551,"Educational Software for EPFL Master course ""Aerial Robotics"" ",Software,2017.0,https://github.com/dronecourse-epfl/DronecourseFirmware
+179353,BC165CB2-6B94-4CBE-BBE4-AC507147276D,PACINPAT Homepage (www.pacinpat.com),Software,2019.0,Unknown
+165860,3276F8BC-5D41-4E35-9D19-ADCFD3574219,Invasight,Start-up,2019.0,https://invasight.com/
+156511,CF6B6310-E669-469B-B46F-AAE3077AB5AA,ild-cnn,Software,2016.0,https://github.com/intact-project/ild-cnn
+172733,8B0302EC-E6D8-4770-B99D-AB100BC28E37,Iliad data packer,Software,2020.0,https://github.com/szenzaro/iliad-data-packer
+162347,D9214764-D2AA-4E58-8445-B0E6B7D0BC3C,Self-supervised Non-Negative PU Learning + KSPTrack,Software,2021.0,https://github.com/lejeunel/ssnnpu_ksptrack
+172669,D3A37F46-0F6A-4E06-86E8-B4E65132A44F,Analysis software for extraction structure and kinetics from time-resolved XAS datasets,Software,2018.0,Unknown
+146354,3A1F2A2A-784F-408D-AE23-793E0DB1516D,R package pGPx: Pseudo-Realizations for Gaussian Process Excursions,Software,2018.0,https://cran.r-project.org/web/packages/pGPx
+172527,BA0F5E49-BD53-4CB9-BF0E-B63A4860E13F,aiida-nanotech-empa,Software,2020.0,https://github.com/nanotech-empa/aiida-nanotech-empa
+156610,F7E25A09-0BEA-48CE-9244-B524F7499B8D,zeppelin–familien startklar,Start-up,2015.0,http://zeppelin-familien.ch
+179158,94A395D0-65C6-4FD0-9D6E-B5E6E95DDC64,nmadb: Network Meta-Analysis Database API,Software,2019.0,https://cran.r-project.org/web/packages/nmadb/index.html
+169115,72E1EA71-C74B-4BF2-9879-B4F95DA958CA,RobustRQ,Software,2018.0,http://www.unige.ch/~dlu/rbstrq.html
+159709,FA41BCBD-FEB9-493E-B311-B36681684891,ID-Gene ecodiagnostics,Start-up,2015.0,http://id-gene.com
+154090,8B30CE63-75A9-4295-8B44-B8B6E047A7B2,Utopia,Software,2019.0,https://bitbucket.org/zulianp/utopia
+172763,C5E4943A-0AD2-46BD-96A0-547F41B00B6F,Chronos,Software,2018.0,https://github.com/chronos-eaas
+157064,0717AD2D-5242-408E-BBAC-56984065D9C3,ProPIP,Software,2017.0,https://github.com/acg-team/ProPIP
+149427,80AA0B76-5B37-4485-9B9D-55D0C23E1D6F,Grid Map - Universal grid map library for mobile robotic mapping,Software,2015.0,https://github.com/ethz-asl/grid_map
+169048,E11D599F-E4D9-4D5E-9CA7-566D18CE4A77,"AMOR v. 4.2. Software (LabView 14) for driving ""System AMOR2"". Software & documentation deposited on internal media server (WISSENSCHAFTEN-ARCHIV/MIKROPALAEONTOLOGIE) at Natural History Museum Basel.",Software,2019.0,Unknown
+164336,B5E4F2C7-5010-4AB9-BF29-5891493A5D4E,Low-latency speaker spotting,Software,2018.0,https://gitlab.eurecom.fr/odessa/llss
+153540,5CA73E2A-35DA-440A-8307-5AD150ECCF4C,Matlab code for domain wall extraction from magnetic contrast images obtained from X-ray photoemission electron microscopy,Software,2018.0,https://github.com/jaianthv/XPEEM-image-analysis-Domain-wall-fluctuations
+138451,1C93353D-DD49-4A6E-BDC1-5DCEF92152DC,Steinbeis Zentrum Immunoproteasome Drug Targeting,Start-up,2011.0,http://cms.uni-konstanz.de/groettrup/steinbeis-transfer-center/
+148169,C46750BF-96F5-4DAA-A0FA-7654B5CA435C,GliaPharm,Start-up,2016.0,www.gliapharm.com
+153540,F3ACD123-87E7-422A-82A0-6CF42E2FFDEF,MOKE-set-up,Software,2018.0,https://github.com/jaianthv/MOKE-set-up
+175720,4E6A2026-FD25-4973-944B-7079C2999535,Firmware and hardware description of FPGA architecture for the SCALP platform,Software,2021.0,https://gitedu.hesge.ch/soma/scalp_firmware
+173124,996F0297-C584-4021-8E2F-69CC447458DC,Gaussian 5D Filter,Software,2019.0,https://github.com/volterralab/Gaussian_5D_filter
+153554,B064C8EF-25C9-4BD1-BD3A-786036574887,Heterogenous face recognition,Software,2018.0,https://gitlab.idiap.ch/bob/bob.paper.tifs2018_dsu
+165546,900D170D-A18C-4F3D-A1B3-79415F372750,Gopper - Performance History Mining Tool (Go version),Software,2017.0,https://github.com/sealuzh/gopper
+170279,A2D57692-7C15-445C-9D98-810A388CE257,"Orchidea, ver. 0.4 - first public release ",Software,2018.0,http://www.orch-idea.org
+153540,AEDAE5A7-31E6-49C5-80CA-7E6D00AA6836,LCR-characterization---BK-precision 895,Software,2019.0,https://github.com/jaianthv/LCR-characterization---BK-precision
+172527,35A851E6-F87D-4F2B-B515-7EACD652881E,Supplementary tools for atomistic simulations,Software,2020.0,https://github.com/nanotech-empa/cp2k-spm-tools
+175676,3B05C8BE-E1EC-4D66-A0C1-7F24E3E20030,Recursive Neural Networks for PyTorch,Software,2020.0,https://github.com/epfl-lara/treenet
+165882,9DC4DA41-E58D-4259-ADC3-90F6BF99E3C8,PrefShare,Software,2018.0,https://drive.switch.ch/index.php/s/ASoI3YFmT46VB5j
+165546,57B48FAD-137D-46B4-8790-92E92EEF52C3,Hopper - Performance History Mining Tool (Groovy version),Software,2017.0,https://github.com/sealuzh/hopper
+153297,A028B154-F1C6-4F34-99FC-8F19BC894792,Scalismo,Software,2015.0,https://github.com/unibas-gravis/scalismo
+157064,F2CBD08C-D629-47B3-BBFF-8AEF4E3DBD03,NetXDiscreteDynamics: Probabilistic framework for discrete evolutionary dynamic,Software,2016.0,https://github.com/gattil/netxDiscreteDynamics
+149802,BFF9E442-E47D-4E4E-9187-66D1C422E50C,Pattern BioSciences,Start-up,2018.0,Unknown
+175676,F8D00FA2-F13F-4B97-9779-88A3A649FD0B,Verification framework and tool for higher-order Scala programs,Software,2020.0,https://github.com/epfl-lara/stainless
+149427,C39E35E2-2F2A-497D-91F9-19BFAFC91447,Free Gait - An Architecture for the Versatile Control of Legged Robots,Software,2016.0,https://github.com/leggedrobotics/free_gait
+163194,E6D861FC-70B0-43B8-9F16-122DA8302DEF,OpusDotNet,Software,2016.0,https://github.com/ludos1978/OpusDotNet
+162343,4D8AA083-0A58-4ADD-9B52-010590BBA376,Mirrakoi,Start-up,2018.0,https://mirrakoi.com
+132926,A397BD97-E25E-4F59-90B9-10ED36AA5ACD,SimplicityBio,Start-up,2013.0,http://www.simplicitybio.com
+157064,770BC28B-C2BF-4033-A87B-07DB7111C571,Phylo-Tools: Phylogenetic tree manipulation toolbox,Software,2016.0,https://github.com/gattil/phylo-tools
+179067,5C41156D-840D-4F19-A0B0-35FB5C74FE0E,raytraverse,Software,2020.0,https://github.com/stephanwaz/raytraverse
+172733,A818B793-821E-4A36-ADA6-1CB67FDB9B80,The Iliadoscope web application,Software,2020.0,https://github.com/szenzaro/iliad-viewer
+166472,1F617673-2F31-44D5-BA60-1EDB9CA638A8,LICTOR,Software,2019.0,http://lictor.irb.usi.ch/lictor/
+149427,592D3397-76F2-4115-9222-2478948B0356,Traversability Estimation,Software,2016.0,https://github.com/ethz-asl/traversability_estimation
+149427,251D11E0-2FD8-458B-AE31-2490CDB243FF,ANYbotics,Start-up,2016.0,http://www.anybotics.com/
+153044,24F683CC-A96A-4685-BDF6-515C5E1DBF91,nanogence,Start-up,2017.0,http://www.nanogence.com
+150098,6BCCA3A7-D662-4465-A07F-51A6324BB73A,SThAR – Social Thermodynamics Applied Research,Start-up,2015.0,http://sthar.com/
+175676,BA9A1B6F-FEAF-4587-B26A-5419E4CFBDFA,Solver for higher-order functional programs,Software,2020.0,https://github.com/epfl-lara/inox
+149861,06DFFCCB-2513-4360-8254-443F979D6E68,caffe extension for heterogeneous hardware systems ,Software,2016.0,https://github.com/naibaf7/caffe
+129974,66333736-75E8-43B7-B207-44E0B356434D,BEN Energy AG,Start-up,2011.0,http://www.ben-energy.ch
+178953,55533F3F-43D5-466E-BF6B-4F71F60D099C,BlockResearchGroup/compas-Masonry: COMPAS Masonry Alpha,Software,2022.0,https://doi.org/10.5281/zenodo.6044225
+172733,EC1A38F5-E66A-405E-B6C9-313267F286F8,Scholie page ,Software,2020.0,https://github.com/szenzaro/go-scholie-page
+153297,562A0E18-0BED-490C-8E48-3A2435D294ED,Scalismo Faces,Software,2017.0,https://github.com/unibas-gravis/scalismo-faces
+163194,07E2AEA9-4FA8-42AE-8CCC-3C2B7429973E,Games In Concert (Unity3D & Max/Msp),Software,2018.0,https://gitlab.zhdk.ch/GamesInConcert/
+149427,8FC572AE-00B3-4960-AD14-3D32AB743246,Generalized Information Filter,Software,2016.0,https://github.com/ethz-asl/generalized_information_filter
+149436,B18E0912-E2FF-4DF1-AB1B-41F3BEAAF164,A - thermal_iwf,Software,2017.0,https://github.com/mroethli/thermal_iwf
+178953,12B9A4A7-218A-47B7-B8EC-3E1A83314878,COMPAS Masonry: Practical Assessment Tools for Historic Masonry Structures,Software,2022.0,https://blockresearchgroup.gitbook.io/compas-masonry/
+149436,88B00CAC-DA5E-48BE-BD6D-3EB04739F8BA,B - mfree_iwf,Software,2018.0,https://github.com/mroethli/mfree_iwf
+149861,3C9E29C0-CCCD-45B1-9B17-14583E1C1D73,TED (tolerant edit distance),Software,2017.0,https://github.com/funkey/ted
+153540,A2FD80B3-234F-47A3-B850-EBB06F32FEE9,Interdigitated-electrodes-capaciatance-calculator,Software,2018.0,https://github.com/jaianthv/Interdigitated-electrodes-capaciatance-calculator
+159433,08DE427E-2875-4B60-BB1E-152D6F950899,tpen2tei - a Python library for conversion of Shared Canvas transcriptions,Software,2019.0,https://pypi.org/project/tpen2tei/
+159233,2A02B4FB-130F-4DCF-A95C-079F763CC9F1,Dynamatic,Software,2020.0,https://dynamatic.epfl.ch/
+156419,7D02705F-01FF-4344-BE83-1EB60F74B995,"eagleye biosciences GmbH, Zug, Switzerland",Start-up,2017.0,https://zg.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-359.839.774&amt=ZG&loeschung=
+159547,198D1524-151A-40BD-9E44-077E5E2B8BB6,POPe (Performance Optimization of Photoelectrodes),Software,2019.0,https://lrese.epfl.ch/research/page-134145-en-html/
+157064,6DD8567E-AA98-4720-BAC6-06D693D217AC,JATI: Joint Alignment Tree Estimation,Software,2018.0,Unknown
+160665,B4D5FB06-C47B-4F4C-A4BF-01A16C2E5B00,Combining Electromyography and Tactile Myography to Improve Hand and Wrist Activity Detection in Prostheses,Software,2017.0,https://www.idiap.ch/paper/mdpi/
+153297,A387DC9D-65E2-4BD2-851B-18CE046FD99E,Shapemeans,Start-up,2016.0,http://shapemeans.com/
+172715,EB593E80-564E-4706-8402-DE5500319943,COSMO-RESM,Software,2020.0,https://github.com/COSMO-RESM
+135051,6C1B45B3-D11C-4C0E-856F-5E24FB3386EB,Software Architecture Warehouse,Software,2013.0,http://saw.inf.usi.ch/
+147030,60FC2509-4512-4FAB-9C94-40859309140F,New web site constructed for the remote-sensing team and put on-line,Software,2014.0,http://space.unibe.ch/PIG/
+127618,B2EA0644-9AF7-4C09-8453-DB6EAF69973D,Davos Diagnostics AG,Start-up,2011.0,Unknown
+137532,D3818131-7813-42F8-8972-D21A28566EA7,Ionplus,Start-up,2013.0,http://www.ionplus.ch
+150126,54A4B1E0-ECB9-4282-A75C-639F12C1B7FC,eventnet,Software,2019.0,https://github.com/juergenlerner/eventnet
+137876,167A77A5-AF36-4372-BC66-C5FF1A42CFDC,SeerVision,Start-up,2016.0,http://www.seer-vision.com/
+173410,A13C1F72-2704-414C-ADE6-691C0E5C0DCF,Research Video Tool,Software,2020.0,http://rv.zhdk.ch
+129715,E9F83B57-4AF3-4AF9-9193-CA33A65B34C2,Attolight,Start-up,2008.0,http://www.attolight.com/index.php?attolight=About_US
+146018,8A9BEB2B-BECD-452D-9787-78F5D2169953,MODERN (Modelling Deposition and Erosion rates with RadioNuclides),Software,2016.0,http://modern.umweltgeo.unibas.ch
+132219,AADEA755-14B1-467F-82E6-BF5C81C03B53,Spellchecker for Quechua,Software,2013.0,Unknown
+169151,B538379C-F8D8-4004-9B13-7104688CF610,"Public code repository for ""Specular-to-Diffuse Translation for Multi-View Reconstruction""",Software,2018.0,https://github.com/wsh312/S2Dnet/
+141102,026D1FC9-E823-4ACD-8F23-75F919B445D5,Alveolix AG,Start-up,2015.0,Unknown
+149591,413CBD6D-84B1-4C52-80C7-72C35EA47916,MobileThinking SARL,Start-up,2014.0,http://mobilethinking.ch
+159433,96007FA3-7C3A-4B14-A90F-61F343BEEA61,TAG-AID (proof of concept),Software,2016.0,http://huygensing.github.io/tag-aid-poc/
+175529,E13B05B8-44A7-43F8-9A61-63100FF8C586,Enhancments and further functionalities to the `spam` R software library,Software,2020.0,https://www.math.uzh.ch/pages/spam/
+156351,F7D00DA7-A219-45B7-9F85-2332055E3A95,Swiss Metadatabase of Religious Affiliation in Europe (SMRE),Software,2018.0,www.smre-data.ch
+153085,7EBD0B37-169B-46A7-A16C-EC2EF24A38E2,RGBD: A Python based RGB-D data processing module,Software,2015.0,http://www.idiap.ch/software/rgbd/
+175933,AE8344C2-6D6D-4BC7-B530-5924C08BFB3F,ed4bhm: Empirical determinacy for Bayesian hierarchical models,Software,2021.0,https://github.com/hunansona/ed4bhm
+166232,B58CD27B-E1E6-44C0-BA53-0B4612668014,Raisim - fast physics simulator,Software,2019.0,https://github.com/leggedrobotics/raisimLib
+166232,5C8CE61E-CAD5-43BD-9557-FD7296E2E97E,Rai - learning framework for robotics,Software,2018.0,https://bitbucket.org/leggedrobotics/rai
+125651,78295D03-857E-4302-86E5-FF3C4F63D871,Immersive Vision Technologies,Start-up,2011.0,http://www.immersive-vision.com
+153644,E07DB977-81CC-4F3F-86CF-D8A7496CA352,Tinamu Labs,Start-up,2018.0,http://tinamu-labs.com/wp/
+159389,0D217EF6-1B04-44B6-95F7-548DA90A5442,sermed_mlm: R functions to facilitate serial mediation analysis with multilevel data,Software,2020.0,https://doi.org/10.17605/OSF.IO/uetn9
+188824,7E957F37-6857-4533-B841-9ED5845F60A9,Privacy evaluation framework for synthetic data publishing,Software,2020.0,https://github.com/spring-epfl/synthetic_data_release
+159411,67AF501C-55DF-4BC9-93F5-D73CF9480000,Mindi,Start-up,2015.0,http://mindi.io
+159411,91B806CA-5B38-4C68-9B95-FFAB2BB22525,Project!,Software,2016.0,http://www.projectq.ch
+149239,405EA25D-43F7-4A69-8D70-EB307594F87B,"R package ""denoiseR""",Software,2016.0,https://CRAN.R-project.org/package=denoiseR
+156922,8BD50BC4-C98A-45DD-A49D-DD7E3E3E65AB,Ever Present Orchestra,Start-up,2017.0,Unknown
+132766,58BF2037-8325-4F67-A202-51F83438A768,ZVSimulator,Software,2014.0,https://github.com/scidom/ZVSimulator.jl
+146448,9A2DEBB4-A6D2-4F8E-A8FD-A1A48E196A33,Giovanni della Casa. Giovinezza di un intellettuale,Software,2017.0,http://dellacasa.unil.ch/
+172671,EF445D09-B8FF-4F3C-9C5A-D889409FDF65,Spektral open-source library for graphs processing,Software,2018.0,https://github.com/danielegrattarola/spektral
+172671,77230DC7-BF3C-4B86-ADD2-D50F1C89CE01,CDG-open source library for detecting changes in stationarity in sequences of graphs,Software,2019.0,https://github.com/dzambon/cdg
+169808,FF4168C4-19E8-4B8D-94E9-FCB69BDDDA4B,Kove Medical,Start-up,2020.0,https://kovemedical.com/
+175676,E81C6663-EABD-43AE-BC36-50E45B623F2D,"Stainless directly built on System FR, with standalone front-end",Software,2020.0,https://github.com/epfl-lara/StainlessFit
+153379,5035AB54-0C0D-4BD4-8C2C-501369928055,qtSBFEM,Software,2018.0,http://www.chatzi.ibk.ethz.ch/research/selected-research-projects/snf-200021_153379.html
+149410,EB45A642-AFB5-4D1C-A4EC-4A31E026E730,"DNA Discourse Network Analysis-program (java-based), Version 2.0-alpha. ",Software,2018.0,https://github.com/leifeld/dna
+153145,370EB02E-BEF3-420B-B3CA-1D6DFA42A6FC,leadXpro,Start-up,2015.0,https://leadxpro.ch/
+178967,8CBFEDDC-62F8-4CE0-B997-32A1E737E50C,McMule,Software,2020.0,https://gitlab.com/mule-tools/mcmule
+160665,9342440E-01E0-4F21-99BC-2136AF0E7AEA,"Manipulability learning, tracking and transfer",Software,2020.0,https://github.com/NoemieJaquier/Manipulability
+172523,A2C57FC2-7204-44B0-9C8E-245A591ACA23,Plastogaz (incorporated in April 2020),Start-up,2020.0,https://plastogaz.com/
+175832,43AED60F-4B36-4EBE-9A70-2CB6BFA5E18E,Digital Twin of a Radio Telescope ,Software,2020.0,https://gitlab.fhnw.ch/ip-61/dt_radio_telescope
+169048,DA7103A0-6DDB-409E-BC67-3B46980CC0BF,AVM v. 2.0 (Automatische Vermessung von Mikrofossilien). Software in Labview 14 & documentation deposited on internal media server (WISSENSCHAFTEN-ARCHIV/MIKROPALAEONTOLOGIE) at Natural History Museum in Basel.,Software,2018.0,Unknown
+146971,FE4162ED-2144-40DF-A9A8-E09AF590DA56,SwissDock - Docking web tool,Software,2014.0,http://www.swissdock.ch
+175933,A1C66CE8-9C50-426C-A305-F296A61540C5,ra4bayesmeta: Reference Analysis for Bayesian Meta-Analysis,Software,2021.0,https://CRAN.R-project.org/package=ra4bayesmeta
+120309,15EBA284-0687-4BAA-AEBD-0ABE7E6AD158,ConfErr open-source prototype,Start-up,2011.0,http://code.google.com/p/conferr/
+132064,229F18CA-1DFC-4A30-B542-FC40103E9BDA,Forthreads Library,Software,2014.0,http://mosaic.mpi-cbg.de/?q=downloads/forthreads
+132064,E11CA1B3-481F-4E04-993B-F677A72A9C81,PPF Library,Software,2014.0,http://mosaic.mpi-cbg.de/?q=downloads/ppf
+156997,89B47F47-D654-4978-A7A6-03AF0D5BEC29,PersonalAnalytics,Software,2016.0,https://www.ifi.uzh.ch/en/seal/people/meyer/personal-analytics.html
+175676,E1F03245-C041-4FFF-B68A-EA1D926862F8,System FR: Formalized Foundations for Stainless,Software,2020.0,https://github.com/epfl-lara/SystemFR
+143838,B8109F20-7970-401A-87F0-F7DB64A74F09,Gensight Biologics,Start-up,2013.0,http://www.gensight-biologics.com
+137832,70C7AB2C-DAA6-4E41-8391-81D8D87DAE34,"R Package ""qut""",Software,2016.0,https://CRAN.R-project.org/package=qut
+162521,FC2F5EE6-1CA3-49F7-980C-FC80CACE816C,cryoWrite,Start-up,2020.0,http://www.cryoWrite.com
+173144,BE67F8D1-6AC6-4727-8CA9-DAA01D7B2C33,QuantImage - Radiomics Web Service,Software,2017.0,https://radiomics.hevs.ch/
+179353,F22BE02E-C01D-4B3A-9B36-13C7A8389E70,PACINPAT Coaching-APP (www.accounts.pacinpat.com),Software,2019.0,Unknown
+162347,7FA5B9F5-193D-4D1D-B635-78223D179F79,Gaze Label,Software,2018.0,https://www.gazelabel.com/
+172527,E048967D-913B-449F-B4BF-780C7EB88F18,Materials Cloud - Empa Surfaces App,Software,2020.0,https://github.com/nanotech-empa/aiidalab-empa-surfaces
+169275,6F1EED52-B482-4314-B871-6BCA3E708783,NUTMEG,Software,2017.0,https://www.nitrc.org/plugins/mwiki/index.php/nutmeg:MainPage
+153145,C49EF9C9-6C76-41FB-8571-6B9F4C243C77,InterAx,Start-up,2016.0,www.interaxbiotech.com/
+159433,4A5A07F8-3F32-497B-A1AF-04CACD52EFBB,Stemmaweb (extension of functionality),Software,2019.0,https://editions.byzantini.st/tools/
+172527,05C2F039-C784-42B0-B469-E254FDA5A3D4,Materials Cloud AiiDA Lab Tools for Scanning Probe Microscopy simulations,Software,2020.0,https://github.com/nanotech-empa/aiidalab-empa-scanning-probe
+172527,E03AEEDC-0EA7-481E-B788-E7DFC3B7063B,aiida-gaussian,Software,2020.0,https://github.com/nanotech-empa/aiida-gaussian
+172527,CCB9D6DA-D7EF-4236-ADD1-EB879B89198E,Materials Cloud - Empa Nanoribbon App,Software,2020.0,https://github.com/nanotech-empa/aiidalab-empa-nanoribbons
+170279,503A1720-4189-4FAC-93B8-EC0F7B7DC404,"Orchidea, ver. 0.0.4b - first internal release ",Software,2018.0,http://www.orch-idea.org
+179158,3F5A4409-710A-4F75-AD69-2B63818B9187,CINeMA,Software,2019.0,https://cinema.ispm.unibe.ch
+132548,BAC9C085-216E-494C-94E8-DD28DD8497E7,Four software releases,Software,2011.0,http://lions.epfl.ch/software
+153085,5D4BF946-1659-4462-A5DB-683E83123D0C,HG3D - A module for 3D head pose and gaze tracking from RGB-D sensors,Software,2015.0,http://www.idiap.ch/software/hg3d/
+169115,2CD2C441-57AB-444E-AD04-DAF9F05A1751,Crawford,Software,2017.0,http://www.unige.ch/~dlu/Crawford.html
+141235,C8FA5673-88AA-4AE7-BB76-120C361015BB,InterAx Biotech,Start-up,2016.0,http://interaxbiotech.com/
+157129,32774D62-5148-4BB0-BD4F-65530A870A97,INSIGHTv3,Software,2018.0,https://sourceforge.net/projects/insightv3/.
+160665,4A314F28-0FAE-4835-8B84-E49F5B4C2189,GMR-based Gaussian Process,Software,2019.0,https://github.com/NoemieJaquier/GMRbasedGP
+175720,49439549-FA2A-446F-B455-DE8EAD016443,SCALPsim: A tool for modeling asynchronous 3-D NoC architectures with heterogeneous links,Software,2020.0,https://gitlab.com/scalp_hw/scalpsim
+175720,9C7B15BA-BB81-4EBD-BDD0-21F496F5F988,PetaLinux distribution for using the Scalp board,Software,2021.0,https://gitedu.hesge.ch/soma/scalp_petalinux
+131748,C827EB03-DCA1-439E-ACAA-684E113F9CCF,"Screen Luzern, Löwenplatz, Uni Luzern, Eingangsbereich",Software,2012.0,Unknown
+120476,2BEDB5FF-F0F7-4416-9468-8E3920F3C3AE,SAKK 65/08 Studie: Phase I trial assessing the safety and dose limiting toxicity of nelfinavir in co,Start-up,2010.0,Unknown
+175696,1383FDE4-94B5-4063-B849-4453771A1136,i-PI,Software,2019.0,http://dx.doi.org/10.17632/x792grbm9g.1
+166086,41020D2A-513B-4016-B2AB-395CBA3034B6,TPF-Tools,Software,2018.0,https://tpftools.postach.io/
+149068,45B32670-54A5-4562-B598-8CF8E7F4E982,ECyTech GmbH,Start-up,2015.0,https://www.unitectra.ch/de/informationen/spinoff/firmen/unibasel
+165546,8BDF0041-BFD6-42F1-88C5-333351A71680,bencher - JMH Benchmark Analysis,Software,2019.0,https://github.com/chrstphlbr/bencher
+162998,BE104444-D2B9-4213-A1A3-8CE84DA9E190,SupResPALM: Hyperspectral Super-Resolution by Coupled Spectral Unmixing,Software,2016.0,https://github.com/lanha/SupResPALM
+170279,DBA4D11D-C77C-43DE-92F2-2F3400CE9372,"Orchidea, ver. 0.5 - second public release ",Software,2019.0,http://www.orch-idea.org
+129513,DBC9B9FB-0054-46BA-9AC2-2D72868F579B,aMC@NLO (public code),Start-up,2012.0,http://amcatnlo.cern.ch
+129974,EDF19F53-D68D-43C6-B6B7-DC4DC3304F18,Amphiro AG,Start-up,2009.0,http://www.amphiro.com
+120309,9360FACC-248D-454D-9CAA-4CE5058455C5,WaRR open-source prototype,Start-up,2011.0,http://code.google.com/p/warr/
+159227,F7C2ADF8-8C3B-4438-A237-8CCF474C50B4,Temporal Super-Resolution Microscopy Using a Hue-Encoded Shutter,Software,2019.0,https://github.com/idiap/hesm_distrib
+175529,BF31178D-E154-4376-90DD-5A4BB10623DF,mrbsizeR: Scale Space Multiresolution Analysis of Random Signals,Software,2020.0,https://github.com/romanflury/mrbsizeR
+162998,D802EF45-A669-4BEC-BDDC-59F62E2D93C6,SupReME: Super-Resolution of Multispectral Multiresolution Images from a Single Sensor,Software,2017.0,https://github.com/lanha/SupReME
+153540,6F692A40-107A-402D-8E40-523DBF17022D,Keithley-IV-Sweep,Software,2018.0,https://github.com/jaianthv/Keithley-Python-Interface
+169206,AE260B1A-E7C0-43BA-8A15-8A6C74C02872,BrainCredible,Start-up,2021.0,https://braincredible.ch/
+159233,18EDFAEE-4821-4D85-843C-58D590C53A97,Dynaburst,Software,2019.0,https://github.com/m-asiatici/dynaburst
+149239,7DBB2761-CE95-419F-A851-5749B6380657,"R package ""qut""",Software,2017.0,https://CRAN.R-project.org/package=qut
+184864,CEE3DB1C-95FD-4E92-8809-54120552EBE5,DECOSO Research Tool,Software,2020.0,Unknown
+150306,63E3F5DD-E667-45F1-9CB6-992F027BA93B,"Truvis GmbH, wird im Oktober 2017 zur AG umgewandelt",Start-up,2017.0,www.truvis.ch
+160112,8EC988F4-9185-4385-8794-E4CC3F110640,ShiftML: Chemical Shifts in Molecular Solids by Machine Learning,Software,2018.0,http://shiftml.epfl.ch
+150232,E4F0CF88-BDB6-44A8-80C5-F01589D8FB6D,Github Repositorium,Software,2015.0,https://github.com/experimentalDataAesthetics
+150179,E5CAE7D2-56CB-4353-A595-E703B30A9E9A,Haelixa GmbH,Start-up,2016.0,www.haelixa.com
+140766,4C5987B7-9BE8-4199-A002-DF2F5415BAF9,ID-Gene ecodiagnostics,Start-up,2014.0,Unknown
+175832,66C29FF3-8947-45A5-AE97-DF949564DFD4,Software for visualization of (solar) radio data ,Software,2020.0,https://github.com/rohitcbscient/lipi
+172763,63E902EA-C175-4978-9AF3-ED7DBC8154EF,Polypheny,Software,2020.0,https://github.com/polypheny
+149427,C9CFBB75-BD31-4ABD-AF81-E01E7E9C166F,Robot-Centric Elevation Mapping,Software,2015.0,https://github.com/ethz-asl/elevation_mapping
+173049,FB4F04C0-DAD6-4F1E-9667-DECF0C3D6078,Metapholio,Software,2019.0,www.metapholio.ch
+173124,537917DF-6267-4637-A735-ED1133F92D96,Correlation calculator,Software,2019.0,https://github.com/volterralab/Correlation_calculator
+163045,FB7B83D0-76CA-4299-94DA-238D3568797E,Public Code Repository for Light Transport in the Gradient Domain,Software,2018.0,https://github.com/gradientpm/gradient-mts
+164336,46586BE1-1674-46BC-8F85-DBC690FDDAE6,Bob Kaldi,Software,2018.0,https://gitlab.idiap.ch/bob/bob.kaldi
+163045,2EE43956-444F-41C4-BA92-848CCB0DA197,Public Code Repository for Temporal Gradient-domain Rendering,Software,2016.0,https://github.com/mkettune/temporal-gpt
+175529,9ECB03C2-FF72-4FCA-966A-F153EABBA80A,spatialfusion: Multivariate Analysis of Spatial Data Using a Unifying Spatial Fusion Framework,Software,2019.0,https://CRAN.R-project.org/package=spatialfusion
+146765,822B9934-FF52-48EF-A29D-B97EC623416C,Grosso-Link,Start-up,2013.0,http://www.grosso.link/
+190903,56EB1A9D-F2B0-40FF-8ABC-7538AE9CA122,Denkbilder Filmproduktion,Start-up,2021.0,https://denkbilder.ch/?page_id=5&lang=de
+190817,FC8A4AA7-E3B1-4CE5-9F51-629FAAD50D06,scanEEGviewer(),Software,2021.0,https://github.com/SCAN-NRAD/scanEEGviewer
+190939,525409BF-C07D-49A3-ADC6-BD5CF1DA6861,md scripts for dialectica,Software,2020.0,https://github.com/jdutant
+195707,711A6A53-CFF0-4EFF-8FF1-3EC89AE5B974,How-troll-are-you,Software,2021.0,Unknown
+190376,9B064FBB-66B6-4BBE-B882-37DABF2E44A1,MoleculARweb,Software,2020.0,https://molecularweb.epfl.ch
+190634,35364661-5BFD-4C52-A658-83104ACCE879,VBA-Find-Replace,Software,2021.0,https://github.com/mig2895/VBA-Find-Replace
+190535,82998055-1E20-4742-87AC-816059404CCA,"Earthquake Risk, Loss and Lifecycle Analysis (EaRL)",Software,2020.0,https://github.com/amaelkady/EaRL
+190624,EE4B351B-E451-4C9C-8339-C5CC03ED6288,Model-Based Signal Processing Library (open source),Software,2021.0,www.lmlib.ch
+195868,24F88E4E-F3DD-49BA-AECA-C13E1DE709C3,Sonic Imagination - Sensor Firmware,Software,2021.0,https://doi.org/10.5281/zenodo.5657587
+190566,D770630F-343E-4988-8BFE-A4B498E48448,Library of Guidance for Health Sceintists,Software,2022.0,https://lights.science
+190725,C3C1ACFB-9A5A-4DF8-9472-1F06A9987F25,Floating Robotics,Start-up,2021.0,www.floatingrobotics.com
+190495,0C0BC649-6D1E-4EE6-8B3E-F64DE6305AE9,Tomographer - Software for spatial tissue profiling by imaging-free molecular tomography.,Software,2020.0,https://github.com/lamanno-epfl/tomographer
+196515,97445D66-1967-4703-9D38-BE18707D5B52,Deep Anatomical Federated Network (DAFNE),Software,2021.0,https://github.com/dafne-imaging/
+190288,39C47448-FC32-42EE-BFBB-D72D0DE622DE,gridCoal,Software,2021.0,https://github.com/Trubenova/gridCoal
+153018,5C3E9DCD-457A-4784-8E64-59A04DED6D16,OCULIGHT dynamics,Start-up,2018.0,www.oculightdynamics.com
+150817,16EF8271-BCCF-4452-A2CC-47D63A859FE6,ID-gene ecodiagnostics,Start-up,2014.0,http://www.id-gene.com
+170770,7DA73EA4-9C34-4B4C-95CA-00C30667C23D,Software for Uncertainty Quantification,Software,2018.0,https://github.com/cselab/pi4u
+121303,FB9487CC-8C2B-4D11-9E7C-48C079C8015D,Swissto12,Start-up,2011.0,http://www.swissto12.ch/
+154297,9F87132D-44F5-4F04-AFE3-7ADED949DDBC,SENSàSION Sàrl,Start-up,2017.0,https://www.sensasion.ch/
+177282,40EC9363-BF66-49B9-AAE5-BA9F9F4A671C,streamgenomics sarl,Start-up,2018.0,www.streamgenomics.com
+186385,0D28D936-A039-41D7-AB84-9A7123BA5AB9,Oxyle AG,Start-up,2020.0,www.oxyle.ch
+181833,349B90A6-C76F-4020-94E6-CF4C87749ED3,Microcaps AG,Start-up,2019.0,www.microcaps.ch
+184177,F0B64F04-25DC-4C2C-AE71-CD322E3A9179,Hexisense Sàrl,Start-up,2020.0,https://www.hexisense.com
+173825,21C947D9-424D-4022-99E6-9C3D80E48131,Collectome,Start-up,2019.0,https://www.collectome.com/
+195036,729AA623-97C5-4517-9DBF-A0223377D488,Samplab GmbH,Start-up,2021.0,https://samplab.com
+187881,8E3010C7-2400-423D-A242-8984DEE42EB6,Urbio,Start-up,2020.0,https://www.urb.io
+187876,AE4EE9AE-A3F4-401D-A7AA-5E0D87B2F2FC,NaturLoop AG ,Start-up,2020.0,https://naturloop.com/
+184210,C7FF49B6-338B-4524-B1EE-68DAC8BB544C,"E[co]work Association (CH, NGO)",Start-up,2019.0,https://www.ecowork.international/
+178262,1A791ED5-E72E-4D23-9FD0-A0387F235117,Kaleibox,Start-up,2020.0,https://kaleibox.ch
+183457,89D6545B-855D-49FD-BC35-AFEDAC1F7DA4,UrbanDataLab AG,Start-up,2020.0,www.urbandatalab.ch
+180264,E6176446-34B1-4546-A492-C8196DC3075F,UniSieve AG,Start-up,2018.0,www.unisieve.com
+191539,16A3F77F-F38B-4BA4-B326-A5485C476CEB,BLP Digital AG,Start-up,2020.0,https://blp-digital.com
+175197,CAB14808-F91F-4A71-B3D7-7C35E72D824A,Bottmedical AG,Start-up,2019.0,Unknown
+187861,95FEEEE2-7098-4AB4-9271-799655EE61F7,Oryl Screener Instrument Software Controller,Software,2020.0,Unknown
+175322,1BB86013-710B-4117-B112-684668FD8FBA,Mondaic AG,Start-up,2018.0,https://mondaic.com/
+180290,E3FEE33B-1AA1-4913-9036-64ADD8149B52,Stress testing tool for SGKB ,Software,2019.0,www.syntherion.com
+181894,CD893082-EBAC-48E2-9496-623E029C7510,Swiss MusicLab GmbH,Start-up,2020.0,Unknown
+193702,89188B37-B77D-4682-BF78-30C52DAA9AE8,Antefil Composite Tech,Start-up,2021.0,https://www.antefil.com
+187880,F06305EB-24CF-4635-950E-107F741FD998,DePoly SA,Start-up,2020.0,Unknown
+180290,051FBAA9-157A-4315-B39C-3FEBA6559F39,Syntherion KIG,Start-up,2019.0,www.syntherion.com
+178253,5D796830-C44B-47B3-9419-4BD523383315,EarlySight SA,Start-up,2019.0,https://earlysight.com/
+177269,02653CE6-C5A7-4EC5-AC74-911D62507771,Mirrakoi SA,Start-up,2018.0,www.mirrakoi.com
+191452,96797696-48BB-4BDB-A3C4-F643C983FFD4,b-rayZ AG ,Start-up,2020.0,www.b-rayZ.ch
+178252,389933F9-96A3-4FB6-A22C-88DA3BE269D2,MotionTech,Start-up,2018.0,www.motiontech.ch
+181853,95A93334-CF7C-4171-95BA-F90FF7F56D92,FenX AG,Start-up,2019.0,https://fenx.ch/
+189757,58A4AD1C-E2AF-4BAE-BD17-AC78A06B7A26,Agrinium Technologies SA,Start-up,2020.0,https://agrinium.ch/
+173852,BF6D1D50-46D9-48E6-B43E-ECB79C484C53,By Maria Foundation,Start-up,2018.0,www.bymariafoundation.org
+184210,B502D3A1-F9F4-48A2-B529-7D62C6D3FC6B,Reccelerator Ecoworking Solutions Pvt. Ltd. (India),Start-up,2019.0,Unknown
+184206,850A2786-8E0C-43D1-A2F0-234DE932CD2B,microPow AG,Start-up,2019.0,www.micropow.ch
+181840,86A43671-5FAF-4DD4-BBCA-7B8285E8CFFF,Foldaway haptics,Start-up,2019.0,http://foldaway-haptics.ch/index.html
+181839,7AE040A5-2028-4B6F-A08E-F5DE78B8DC8B,REM Analytics SA,Start-up,2020.0,www.remanalytics.ch
+173852,0CAEAE18-CE77-4757-BABB-49835B1D19D0,By Maria,Start-up,2017.0,www.bymaria.ch
+178267,E8DF65E6-521A-4DB8-9563-451902888545,SoHHytec SA,Start-up,2020.0,www.sohhytec.com
+191452,8BCF25BC-62D7-49F0-8A96-0AA41E608192,bbox,Software,2020.0,www.b-rayZ.ch
+183418,0EA4B2B6-52B4-4B67-921F-03C3529D8F5F,Aeroskin Tech AG,Start-up,2019.0,www.aeroskintech.com
+178259,C3CE1EA2-BE1E-4A21-B091-598DB06B3203,mimiX Biotherapeutics,Start-up,2019.0,https://www.mimixbio.com/
+180268,58F98C1A-6796-4EBD-95A2-43F6156C81F4,Annaida Technologies SA,Start-up,2019.0,https://annaida.ch/
+187861,22C347E8-D444-4320-8E3E-4162266A9A8A,Oryl Photonics,Start-up,2020.0,https://www.orylphotonics.com/
+193764,48CF0E83-C549-47A4-A692-DCAA975C24C7,Neurosoft Bioelectronics,Start-up,2020.0,https://neurosoft-bio.com/
+186286,46DA3653-CBEF-4947-9DED-3D8A15A2E711,PepChat,Start-up,2021.0,Unknown
+191468,2AE01EE3-B997-446E-BAEB-AA89014ED98D,SUIND AG,Start-up,2020.0,www.suind.com
+186320,37C36964-83FB-4FCE-B25D-D77A626A7A3B,Auxivo AG,Start-up,2019.0,www.auxivo.com
+180309,7CD7D3B1-7577-4EFF-B299-1044693F664B,Artiria Medical,Start-up,2019.0,https://artiria-medical.com/
+191460,DEFA90A1-AB5F-418C-B731-02537B71B91A,KOVE medical AG,Start-up,2020.0,Unknown
+183416,3920186F-2CE0-40BD-9ED4-A7D37A8515FF,Polariton Technologies,Start-up,2019.0,www.polariton.ch
+181854,5A993120-4040-4503-97DD-E380E1A3A88C,Nagi Bioscience SA,Start-up,2019.0,http://nagibio.ch/
+187879,2A32C84B-F2CF-4EF1-B39F-1FF8C18A5417,Bionomous Sàrl,Start-up,2019.0,https://bionomous.ch/
+195031,614B0B0B-93E4-41AC-AACE-16638340F919,ArcoScreen SA,Start-up,2021.0,https://www.zefix.ch/fr/search/entity/list/firm/1496051
+173823,999B3F04-907D-439C-B8DA-2B0334162E3E,Daphne Technology SA,Start-up,2017.0,http://www.daphnetechnology.com
+175192,BC261E03-1BD4-4FD0-BBF0-2B6518BB21F1,Linkster Therapeutics AG,Start-up,2019.0,https://linkstertx.com/
+189762,A2D8B290-63D0-4A3D-9ABD-E0EC4C320425,Lumendo AG,Start-up,2019.0,www.lumendo.ch
+157907,C696890F-FCB5-4893-B758-6B297BE4935C,LinkingTool,Software,2020.0,https://github.com/raykyn/heraldik
+157968,366DB2C5-8352-4754-9713-65CA74F3B7F9,AWG-APP,Software,2020.0,https://github.com/webern-unibas-ch/awg-app
+157907,7918AD2F-DD4D-4FCF-9408-0FA3BEB0193E,ABBREVSOLVER,Software,2020.0,https://github.com/raykyn/abbrevSolver
+157907,A5D94720-70BD-45ED-A06A-F3652CC7E526,"Public Handwritten Text Recognition Model: Charter Scripts (German, Latin, French)",Software,2020.0,https://readcoop.eu/model/charter-scripts-german-latin-french/
+157995,21D5D0F7-FF3B-41A4-8B59-39070262FA00,TEI2NEO Parser,Software,2019.0,https://pypi.org/project/tei2neo/
+157995,8E340A17-1DE3-4C3D-AD82-4D220F4FF713,Webseite der Semper Edition,Software,2020.0,https://semper-edition.ch
+169080,00A4D4DA-1FCE-47CC-A70C-55A5C7176C58,Thesaurus-Manager,Software,2018.0,Unknown
+198240,7601651D-3078-45D3-8255-C5BA2D498A66,Frontend digitale Edition,Software,2021.0,https://c4science.ch/source/manuscript-edition
+198240,D074825D-B09A-450A-A1B2-9D409D31F183,Nietzsche Online Tool,Software,2021.0,https://c4science.ch/source/nietzsche-online-tools
+159289,06102A7C-BEC1-4BA3-8D14-7FB28E02F08F,Pathmate Technologies AG,Start-up,2017.0,www.pathmate-technologies.com
+159289,12FF0E30-414F-48EB-B556-ECCD23710D91,Open Source Behavioral Intervention Platform MobileCoach (The software was updated based on the results of the Pathmate 2 project),Software,2019.0,www.mobile-coach.eu

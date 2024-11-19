@@ -1,0 +1,166 @@
+Discipline,Discipline_Level1,Discipline_Level2,DisciplineNumber,DisciplineLevel,ParentDiscipline,ParentDisciplineNumber
+"Sociology, social work, political sciences, media and communication studies, health",Humanities and Social Sciences,"Sociology, social work, political sciences, media and communication studies, health",10600,2,Humanities and Social Sciences,10000
+"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",Humanities and Social Sciences,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10100,2,Humanities and Social Sciences,10000
+"Psychology, educational studies",Humanities and Social Sciences,"Psychology, educational studies",10500,2,Humanities and Social Sciences,10000
+"Ethnology, social and human geography",Humanities and Social Sciences,"Ethnology, social and human geography",10400,2,Humanities and Social Sciences,10000
+"Economics, law",Humanities and Social Sciences,"Economics, law",10700,2,Humanities and Social Sciences,10000
+"Art studies, musicology, theatre and film studies, architecture",Humanities and Social Sciences,"Art studies, musicology, theatre and film studies, architecture",10300,2,Humanities and Social Sciences,10000
+Molecular Biology,Biology and Medicine,Basic Biological Research,30102,3,Basic Biological Research,30100
+Inorganic Chemistry,"Mathematics, Natural- and Engineering Sciences",Chemistry,20303,3,Chemistry,20300
+Botany,Biology and Medicine,General Biology,30201,3,General Biology,30200
+"Immunology, Immunopathology",Biology and Medicine,Experimental Medicine,30403,3,Experimental Medicine,30400
+Fluid Dynamics,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20503,3,Engineering Sciences,20500
+Organic Chemistry,"Mathematics, Natural- and Engineering Sciences",Chemistry,20304,3,Chemistry,20300
+Information Technology,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20506,3,Engineering Sciences,20500
+Mathematics,"Mathematics, Natural- and Engineering Sciences",Mathematics,20100,2,"Mathematics, Natural- and Engineering Sciences",20000
+Sociology,Humanities and Social Sciences,"Sociology, social work, political sciences, media and communication studies, health",10201,3,"Sociology, social work, political sciences, media and communication studies, health",10600
+General history (without pre-and early history),Humanities and Social Sciences,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10301,3,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10100
+Biochemistry,Biology and Medicine,Basic Biological Research,30101,3,Basic Biological Research,30100
+Psychology,Humanities and Social Sciences,"Psychology, educational studies",10105,3,"Psychology, educational studies",10500
+Physical Chemistry,"Mathematics, Natural- and Engineering Sciences",Chemistry,20301,3,Chemistry,20300
+"Religious studies, Theology",Humanities and Social Sciences,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10102,3,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10100
+Condensed Matter Physics,"Mathematics, Natural- and Engineering Sciences",Physics,20404,3,Physics,20400
+Zoology,Biology and Medicine,General Biology,30202,3,General Biology,30200
+Geology,"Mathematics, Natural- and Engineering Sciences",Earth Sciences,20801,3,Earth Sciences,20800
+"Embryology, Developmental Biology",Biology and Medicine,Basic Biological Research,30105,3,Basic Biological Research,30100
+Genetics,Biology and Medicine,Basic Biological Research,30104,3,Basic Biological Research,30100
+Ethnology,Humanities and Social Sciences,"Ethnology, social and human geography",10403,3,"Ethnology, social and human geography",10400
+Prehistory,Humanities and Social Sciences,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10401,3,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10100
+Microelectronics. Optoelectronics,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20508,3,Engineering Sciences,20500
+Science of management,Humanities and Social Sciences,"Economics, law",10204,3,"Economics, law",10700
+Swiss history,Humanities and Social Sciences,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10302,3,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10100
+Geochemistry,"Mathematics, Natural- and Engineering Sciences",Earth Sciences,20803,3,Earth Sciences,20800
+Methods of Epidemiology and Preventive Medicine,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30812,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+Material Sciences,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20505,3,Engineering Sciences,20500
+"Education and learning sciences, subject-specific education",Humanities and Social Sciences,"Psychology, educational studies",10104,3,"Psychology, educational studies",10500
+Ecology,Biology and Medicine,General Biology,30207,3,General Biology,30200
+Other disciplines of Physics,"Mathematics, Natural- and Engineering Sciences",Physics,20409,3,Physics,20400
+Agricultural and Forestry Sciences,Biology and Medicine,General Biology,30205,3,General Biology,30200
+Social geography and ecology,Humanities and Social Sciences,"Ethnology, social and human geography",10206,3,"Ethnology, social and human geography",10400
+Political science,Humanities and Social Sciences,"Sociology, social work, political sciences, media and communication studies, health",10202,3,"Sociology, social work, political sciences, media and communication studies, health",10600
+Other disciplines of Environmental Sciences,"Mathematics, Natural- and Engineering Sciences",Environmental Sciences,20709,3,Environmental Sciences,20700
+"Climatology. Atmospherical Chemistry, Aeronomy","Mathematics, Natural- and Engineering Sciences",Environmental Sciences,20704,3,Environmental Sciences,20700
+"Cellular Biology, Cytology",Biology and Medicine,Basic Biological Research,30103,3,Basic Biological Research,30100
+Physiology : other topics,Biology and Medicine,Basic Medical Sciences,30305,3,Basic Medical Sciences,30300
+Legal sciences,Humanities and Social Sciences,"Economics, law",10205,3,"Economics, law",10700
+Public Health and Health Services,Biology and Medicine,Social Medicine,30911,3,Social Medicine,30900
+"Astronomy, Astrophysics and Space Sciences","Mathematics, Natural- and Engineering Sciences","Astronomy, Astrophysics and Space Sciences",20200,2,"Mathematics, Natural- and Engineering Sciences",20000
+Economics,Humanities and Social Sciences,"Economics, law",10203,3,"Economics, law",10700
+Biomedical Engineering,Biology and Medicine,Clinical Medicine,30714,3,Clinical Medicine,30700
+Philosophy,Humanities and Social Sciences,"Linguistics and literature, philosophy",10101,3,"Linguistics and literature, philosophy",10200
+Musicology,Humanities and Social Sciences,"Art studies, musicology, theatre and film studies, architecture",10405,3,"Art studies, musicology, theatre and film studies, architecture",10300
+Medical Microbiology,Biology and Medicine,Basic Medical Sciences,30307,3,Basic Medical Sciences,30300
+Paediatrics,Biology and Medicine,Clinical Medicine,30707,3,Clinical Medicine,30700
+Other disciplines of Engineering Sciences,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20511,3,Engineering Sciences,20500
+Ecclesiastical history,Humanities and Social Sciences,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10103,3,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10100
+Chemical Engineering,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20507,3,Engineering Sciences,20500
+Internal Medicine,Biology and Medicine,Clinical Medicine,30701,3,Clinical Medicine,30700
+Romance languages and literature,Humanities and Social Sciences,"Linguistics and literature, philosophy",10502,3,"Linguistics and literature, philosophy",10200
+Respiratory Diseases,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30811,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+Visual arts and Art history,Humanities and Social Sciences,"Art studies, musicology, theatre and film studies, architecture",10404,3,"Art studies, musicology, theatre and film studies, architecture",10300
+German and English languages and literature,Humanities and Social Sciences,"Linguistics and literature, philosophy",10501,3,"Linguistics and literature, philosophy",10200
+Geophysics,"Mathematics, Natural- and Engineering Sciences",Earth Sciences,20802,3,Earth Sciences,20800
+Nuclear Physics,"Mathematics, Natural- and Engineering Sciences",Physics,20402,3,Physics,20400
+Palaeontology,"Mathematics, Natural- and Engineering Sciences",Earth Sciences,20805,3,Earth Sciences,20800
+Pathophysiology,Biology and Medicine,Experimental Medicine,30402,3,Experimental Medicine,30400
+Ancient history and Classical studies,Humanities and Social Sciences,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10303,3,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10100
+"Hydrology, Limnology, Glaciology","Mathematics, Natural- and Engineering Sciences",Environmental Sciences,20705,3,Environmental Sciences,20700
+Arts,Humanities and Social Sciences,"Art studies, musicology, theatre and film studies, architecture",10603,3,"Art studies, musicology, theatre and film studies, architecture",10300
+Archaeology,Humanities and Social Sciences,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10402,3,"Theology & religious studies, history, classical studies, archaeology, prehistory and early history",10100
+Social work,Humanities and Social Sciences,"Sociology, social work, political sciences, media and communication studies, health",10601,3,"Sociology, social work, political sciences, media and communication studies, health",10600
+Civil Engineering,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20501,3,Engineering Sciences,20500
+Clinical Cardiovascular Research,Biology and Medicine,Clinical Medicine,30715,3,Clinical Medicine,30700
+Mineralogy,"Mathematics, Natural- and Engineering Sciences",Earth Sciences,20806,3,Earth Sciences,20800
+Experimental Microbiology,Biology and Medicine,Basic Biological Research,30107,3,Basic Biological Research,30100
+Tropical Medicine,Biology and Medicine,Clinical Medicine,30712,3,Clinical Medicine,30700
+Neurophysiology and Brain Research,Biology and Medicine,Basic Medical Sciences,30302,3,Basic Medical Sciences,30300
+Congenital Disorders,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30801,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+Mechanical Engineering,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20502,3,Engineering Sciences,20500
+Communication sciences,Humanities and Social Sciences,"Sociology, social work, political sciences, media and communication studies, health",10207,3,"Sociology, social work, political sciences, media and communication studies, health",10600
+Infectious Diseases,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30808,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+Cardiovascular Research,Biology and Medicine,Basic Medical Sciences,30303,3,Basic Medical Sciences,30300
+"Pharmacology, Pharmacy",Biology and Medicine,Basic Medical Sciences,30306,3,Basic Medical Sciences,30300
+Meteorology,"Mathematics, Natural- and Engineering Sciences",Environmental Sciences,20703,3,Environmental Sciences,20700
+Architecture and Social urban science,Humanities and Social Sciences,"Art studies, musicology, theatre and film studies, architecture",10407,3,"Art studies, musicology, theatre and film studies, architecture",10300
+Forest Engineering,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20510,3,Engineering Sciences,20500
+Biophysics,Biology and Medicine,Basic Biological Research,30108,3,Basic Biological Research,30100
+Experimental Cancer Research,Biology and Medicine,Experimental Medicine,30401,3,Experimental Medicine,30400
+Clinical Endocrinology,Biology and Medicine,Clinical Medicine,30716,3,Clinical Medicine,30700
+Electrical Engineering,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20504,3,Engineering Sciences,20500
+Clinical Pathophysiology,Biology and Medicine,Clinical Medicine,30717,3,Clinical Medicine,30700
+Theatre and Cinema,Humanities and Social Sciences,"Art studies, musicology, theatre and film studies, architecture",10406,3,"Art studies, musicology, theatre and film studies, architecture",10300
+Endocrinology,Biology and Medicine,Basic Medical Sciences,30304,3,Basic Medical Sciences,30300
+Environmental Research,Biology and Medicine,General Biology,30206,3,General Biology,30200
+Particle Physics,"Mathematics, Natural- and Engineering Sciences",Physics,20403,3,Physics,20400
+Veterinary Medicine,Biology and Medicine,Clinical Medicine,30713,3,Clinical Medicine,30700
+Humanities and Social Sciences,Humanities and Social Sciences,,10000,1,,
+Applied linguistics,Humanities and Social Sciences,"Linguistics and literature, philosophy",10607,3,"Linguistics and literature, philosophy",10200
+Clinical Cancer Research,Biology and Medicine,Clinical Medicine,30703,3,Clinical Medicine,30700
+Theoretical Physics,"Mathematics, Natural- and Engineering Sciences",Physics,20401,3,Physics,20400
+"Music, Theatre",Humanities and Social Sciences,"Art studies, musicology, theatre and film studies, architecture",10604,3,"Art studies, musicology, theatre and film studies, architecture",10300
+Other languages and literature,Humanities and Social Sciences,"Linguistics and literature, philosophy",10503,3,"Linguistics and literature, philosophy",10200
+Plasma Physics,"Mathematics, Natural- and Engineering Sciences",Physics,20406,3,Physics,20400
+"Mental Disorders, Psychosomatic Diseases",Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30802,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+Other disciplines of Earth Sciences,"Mathematics, Natural- and Engineering Sciences",Earth Sciences,20809,3,Earth Sciences,20800
+Clinical Immunology and Immunopathology,Biology and Medicine,Clinical Medicine,30718,3,Clinical Medicine,30700
+Geochronology,"Mathematics, Natural- and Engineering Sciences",Earth Sciences,20804,3,Earth Sciences,20800
+Gynaecology,Biology and Medicine,Clinical Medicine,30706,3,Clinical Medicine,30700
+Health Education,Biology and Medicine,Social Medicine,30910,3,Social Medicine,30900
+Applied psychology,Humanities and Social Sciences,"Psychology, educational studies",10605,3,"Psychology, educational studies",10500
+Radiobiology,Biology and Medicine,Basic Biological Research,30106,3,Basic Biological Research,30100
+Ethology,Biology and Medicine,Experimental Medicine,30407,3,Experimental Medicine,30400
+"Neurology, Psychiatry",Biology and Medicine,Clinical Medicine,30708,3,Clinical Medicine,30700
+"Mathematics, Natural- and Engineering Sciences","Mathematics, Natural- and Engineering Sciences",,20000,1,,
+Health,Humanities and Social Sciences,"Sociology, social work, political sciences, media and communication studies, health",10602,3,"Sociology, social work, political sciences, media and communication studies, health",10600
+Pedology,"Mathematics, Natural- and Engineering Sciences",Environmental Sciences,20701,3,Environmental Sciences,20700
+Interdisciplinary,Interdisciplinary,,50000,1,,
+Biology and Medicine,Biology and Medicine,,30000,1,,
+Technical Physics,"Mathematics, Natural- and Engineering Sciences",Physics,20405,3,Physics,20400
+Structural Research,Biology and Medicine,Basic Medical Sciences,30301,3,Basic Medical Sciences,30300
+Geomorphology,"Mathematics, Natural- and Engineering Sciences",Environmental Sciences,20702,3,Environmental Sciences,20700
+Diseases of Bones and Joints,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30809,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+non-classifiable,non-classifiable,,0,1,,
+Surgery,Biology and Medicine,Clinical Medicine,30702,3,Clinical Medicine,30700
+Metabolic Disorders,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30807,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+Dermatology,Biology and Medicine,Clinical Medicine,30705,3,Clinical Medicine,30700
+Ophthalmology,Biology and Medicine,Clinical Medicine,30710,3,Clinical Medicine,30700
+Environmental Sciences,"Mathematics, Natural- and Engineering Sciences",Environmental Sciences,20700,2,"Mathematics, Natural- and Engineering Sciences",20000
+Clinical Pharmacology,Biology and Medicine,Clinical Medicine,30704,3,Clinical Medicine,30700
+Otorhinolaryngology,Biology and Medicine,Clinical Medicine,30709,3,Clinical Medicine,30700
+Geriatrics,Biology and Medicine,Clinical Medicine,30720,3,Clinical Medicine,30700
+Sport Medicine,Biology and Medicine,Clinical Medicine,30721,3,Clinical Medicine,30700
+"Anthropology, Primatology",Biology and Medicine,General Biology,30204,3,General Biology,30200
+"Occupational Medicine, Ergonomy",Biology and Medicine,Social Medicine,30909,3,Social Medicine,30900
+Cardiovascular Diseases,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30806,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+Medical Statistics,Biology and Medicine,Social Medicine,30912,3,Social Medicine,30900
+Dentistry,Biology and Medicine,Clinical Medicine,30711,3,Clinical Medicine,30700
+Agricultural Engineering,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20509,3,Engineering Sciences,20500
+Medico-Social Problems of the Elderly,Biology and Medicine,Social Medicine,30904,3,Social Medicine,30900
+Addictive Diseases,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30803,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+"Nutritional Research, Vitaminology",Biology and Medicine,Experimental Medicine,30405,3,Experimental Medicine,30400
+Engineering Sciences,"Mathematics, Natural- and Engineering Sciences",Engineering Sciences,20500,2,"Mathematics, Natural- and Engineering Sciences",20000
+Animal Breeding,Biology and Medicine,General Biology,30209,3,General Biology,30200
+Social Paediatrics,Biology and Medicine,Social Medicine,30902,3,Social Medicine,30900
+Dietetics,Biology and Medicine,Social Medicine,30908,3,Social Medicine,30900
+Paleontology (biol.),Biology and Medicine,General Biology,30203,3,General Biology,30200
+Chemistry,"Mathematics, Natural- and Engineering Sciences",Chemistry,20300,2,"Mathematics, Natural- and Engineering Sciences",20000
+Oral Preventive Medicine,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30810,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+Oceanography,"Mathematics, Natural- and Engineering Sciences",Environmental Sciences,20706,3,Environmental Sciences,20700
+Experimental Medicine,Biology and Medicine,Experimental Medicine,30400,2,Biology and Medicine,30000
+Social Medicine,Biology and Medicine,Social Medicine,30900,2,Biology and Medicine,30000
+Cancer,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30805,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+Clinical Medicine,Biology and Medicine,Clinical Medicine,30700,2,Biology and Medicine,30000
+Environmental Toxicology,Biology and Medicine,Social Medicine,30907,3,Social Medicine,30900
+Physics,"Mathematics, Natural- and Engineering Sciences",Physics,20400,2,"Mathematics, Natural- and Engineering Sciences",20000
+Medico-Social Problems of Youth,Biology and Medicine,Social Medicine,30903,3,Social Medicine,30900
+Rehabilitation,Biology and Medicine,Social Medicine,30905,3,Social Medicine,30900
+Human Ecology,Biology and Medicine,Social Medicine,30906,3,Social Medicine,30900
+Clinical Nutritional Research,Biology and Medicine,Clinical Medicine,30719,3,Clinical Medicine,30700
+Basic Biological Research,Biology and Medicine,Basic Biological Research,30100,2,Biology and Medicine,30000
+Group Medicine,Biology and Medicine,Social Medicine,30901,3,Social Medicine,30900
+Earth Sciences,"Mathematics, Natural- and Engineering Sciences",Earth Sciences,20800,2,"Mathematics, Natural- and Engineering Sciences",20000
+Accidents,Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30804,3,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800
+Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),Biology and Medicine,Preventive Medicine (Epidemiology/Early Diagnosis/Prevention),30800,2,Biology and Medicine,30000
+Basic Medical Sciences,Biology and Medicine,Basic Medical Sciences,30300,2,Biology and Medicine,30000
+General Biology,Biology and Medicine,General Biology,30200,2,Biology and Medicine,30000
+"Linguistics and literature, philosophy",Humanities and Social Sciences,"Linguistics and literature, philosophy",10200,2,Humanities and Social Sciences,10000
